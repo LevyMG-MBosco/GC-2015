@@ -357,8 +357,13 @@ body{
 .interior-nav{
 		display: table;
 		width: 170px;
+		height: 755px;
 		float: right;
 		border-spacing: 0 2px;
+}
+
+.interior-nav ul{
+	margin-top: 25px;
 }
 
 .interior-nav li{
