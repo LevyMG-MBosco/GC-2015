@@ -17,19 +17,19 @@
     <div class="col-xs-4">
       <div class="interior-nav">
         <ul class="nav">
-          <span><li class="selected">Ammunition Tooling &<br /> Firearms Manufacturing</li></span>
-          <span><li>Can Tooling</li></span>
-          <span><li>Fastener Tooling</li></span>
-          <span><li>General Metalforming</li></span>
-          <span><li>Oil & Gas Components</li></span>
-          <span><li>PM/Compaction Tooling</li></span>
-          <span><li>Tooftile Tooling</li></span>
-          <span><li>Rotary Tooling</li></span>
-          <span><li>Severe Service Tooling</li></span>
-          <span><li>Specialty Tooling</li></span>
-          <span><li>Stamping/Lamination Tooling</li></span>
-          <span><li>Synthetic Diamond<br /> Manufacturing</li></span>
-          <span><li>Wire Drawing Tooling</li></span>
+          <span><li id="nav1" class="selected">Ammunition Tooling &<br /> Firearms Manufacturing</li></span>
+          <span><li id="nav2">Can Tooling</li></span>
+          <span><li id="nav3">Fastener Tooling</li></span>
+          <span><li id="nav4">General Metalforming</li></span>
+          <span><li id="nav5">Oil & Gas Components</li></span>
+          <span><li id="nav6">PM/Compaction Tooling</li></span>
+          <span><li id="nav7">Tooftile Tooling</li></span>
+          <span><li id="nav8">Rotary Tooling</li></span>
+          <span><li id="nav9">Severe Service Tooling</li></span>
+          <span><li id="nav10">Specialty Tooling</li></span>
+          <span><li id="nav11">Stamping/Lamination Tooling</li></span>
+          <span><li id="nav12">Synthetic Diamond<br /> Manufacturing</li></span>
+          <span><li id="nav13">Wire Drawing Tooling</li></span>
         </ul>
       </div>
     </div>

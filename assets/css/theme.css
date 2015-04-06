@@ -375,6 +375,11 @@ body{
 	background: rgba(0,0,0,.7);
 }
 
+.interior-content img{
+	width: 100%;
+	height: 162px;
+}
+
 /* Footer styling */
 .footer{
 	color: #fff;
