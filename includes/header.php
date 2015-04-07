@@ -48,8 +48,7 @@
          <li><a href="#grades">GRADES</a></li>
          <li><a href="#quality">QUALITY</a></li>
          <li><a href="#library">LIBRARY</a></li>
-         <li><a href="#news">NEWS</a></li>
-         <li><a href="#about">ABOUT</a></li>
+         <li><a href="#news">TOOLBOX</a></li>
         </ul>
         </div>
 
@@ -70,16 +69,16 @@
 
             <div class="row">
                 <div class="logowrap col-md-4 col-xs-12">
-                  <img class="hidden-xs hidden-sm visible-md-* img-responsive" src="assets/imgs/GCLogo-mini.png"/>
-                  <img class="hidden-md hidden-lg img-responsive" src="assets/imgs/GCLogo-hirez.png"/>
+                  <img style="width: 335px;" class="img-responsive" src="assets/imgs/GCLogo-hirez.png"/>
                 </div>
                 <div class="linkwrap col-xs-8">
                   <div class="header-position-right">
                     <ul class="contact-navigation">
-                        <li>CAREERS</li> |
-                        <li>CONTACT</li>
+                        <li>About</li> |
+                        <li>News & Events</li> |
+                        <li>Careers</li> |
+                        <li>Contact</li>
                     </ul>
-                    <img class="selector-button img-responsive" src="assets/imgs/selector.jpg"/>
                   </div>
                 </div>
             </div>
@@ -98,8 +97,10 @@
               <div class="linkwrap col-xs-4">
                 <div class="header-position-right">
                   <ul class="contact-navigation">
-                      <li>CAREERS</li> |
-                      <li>CONTACT</li>
+                    <li>About</li> |
+                    <li>News & Events</li> |
+                    <li>Careers</li> |
+                    <li>Contact</li>
                   </ul>
                   <img class="selector-button img-responsive" src="assets/imgs/selector.jpg"/>
                 </div>
@@ -136,8 +137,7 @@
                     <li><a href="interior.php">GRADES</a></li>
                     <li><a href="interior.php">QUALITY</a></li>
                     <li><a href="interior.php">LIBRARY</a></li>
-                    <li><a href="interior.php">NEWS</a></li>
-                    <li><a href="interior.php">ABOUT</a></li>
+                    <li><a href="interior.php">TOOLBOX</a></li>
                 </ul>
             </div>
         </div>

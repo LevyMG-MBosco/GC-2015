@@ -17,7 +17,7 @@
     <div class="col-xs-4">
       <div class="interior-nav">
         <ul class="nav">
-        <span style="position:relative;"><li id="nav0" class="basenav selected" style="position:absolute;top: -28px; left:-20px;">Industries</li></span>
+          <span><li id="nav0" class="selected">Industries</li></span>
           <span><li id="nav1">Ammunition Tooling &<br /> Firearms Manufacturing</li></span>
           <span><li id="nav2">Can Tooling</li></span>
           <span><li id="nav3">Fastener Tooling</li></span>
