@@ -98,6 +98,15 @@ body{
 	display: table;
 }
 
+.contact-navigation li a{
+	text-decoration: none;
+	color: white;
+}
+
+.contact-navigation li a{
+	text-deocration: none;
+}
+
 .contact-navigation li{
 	display: table-cell;
 	padding: 5px;
@@ -138,8 +147,6 @@ body{
 	display: table-cell;
 	padding: 0px 5px;
 }
-
-
 
 @media (max-width: 767px){
 	.header-content > .red-background{
