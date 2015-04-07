@@ -89,4 +89,12 @@ $(document).ready(function () {
         $('.interior-content').html(content[$(this).attr('id')]);
     });
 
+
+    //Drives the landing page's overlay fades
+    $('.img-overlaid').mouseenter(function(){
+      $(this).next().fadeIn(200);
+    });
+    $('.overlay').mouseleave(function(){
+      $(this).fadeOut(200);
+    });
 });

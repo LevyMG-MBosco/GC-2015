@@ -25,9 +25,21 @@
 
     </div>
     <div class="row">
-        <img class="col-sm-4 img-responsive" src="assets/imgs/sub1.jpg"/>
-        <img class="col-sm-4 img-responsive" src="assets/imgs/sub2.jpg"/>
-        <img class="col-sm-4 img-responsive" src="assets/imgs/sub3.jpg"/>
+        <div class="col-sm-4">
+          <h1>INDUSTRIES</h1>
+          <img class="img-overlaid img-responsive" src="assets/imgs/sub1.jpg"/>
+          <div class="overlay"><p>Lorem ipsum dolar sit amet</p></div>
+        </div>
+        <div class="col-sm-4">
+          <h1>GRADES</h1>
+          <img class="img-overlaid img-responsive" src="assets/imgs/sub2.jpg"/>
+          <div class="overlay"><p>Lorem ipsum dolar sit amet</p></div>
+        </div>
+        <div class="col-sm-4">
+          <h1>QUALITY</h1>
+          <img class="img-overlaid img-responsive" src="assets/imgs/sub3.jpg"/>
+          <div class="overlay"><p>Lorem ipsum dolar sit amet</p></div>
+        </div>
     </div>
 </div>
 

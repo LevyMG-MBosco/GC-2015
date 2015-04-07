@@ -103,7 +103,14 @@ body{
 	padding: 5px;
 }
 
-
+.overlay{
+	height: 100%;
+	width: 100%;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	padding: 0px 15px;
+}
 
 .header-content > .red-background:last-child{
 	margin-top: 5px;
@@ -300,12 +307,27 @@ body{
 	line-height: 32px;
 }
 
+
+/* Landing page overlay */
+.overlay{
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	left: 0;
+	top: 0;
+	background-color: rgba(0,0,0,0.2);
+	border-left: 15px solid #fff;
+	border-right: 15px solid #fff;
+	display:none;
+}
+
 .thin-text{
 	font-weight: 300;
 }
 
 #white_content{
 	text-align: center;
+	padding-bottom: 50px;
 }
 
 #white_content > div > h1{
@@ -316,10 +338,6 @@ body{
 
 #white_content > div > p{
 	font-size: 24px;
-}
-
-#white_content div:last-child{
-	padding: 10px 0px 50px;
 }
 
 #white_content2{
