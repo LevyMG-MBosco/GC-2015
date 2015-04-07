@@ -43,12 +43,12 @@
         </form>
         <ul class="nav navbar-nav">
          <li class="active"><a href="#">Home</a></li>
-         <li><a href="#home">HOME</a></li>
-         <li><a href="#industry">INDUSTRY</a></li>
-         <li><a href="#grades">GRADES</a></li>
-         <li><a href="#quality">QUALITY</a></li>
-         <li><a href="#library">LIBRARY</a></li>
-         <li><a href="#news">TOOLBOX</a></li>
+         <li><a href="home.php">HOME</a></li>
+         <li><a href="industries.php">INDUSTRY</a></li>
+         <li><a href="grades.php">GRADES</a></li>
+         <li><a href="quality.php">QUALITY</a></li>
+         <li><a href="library.php">LIBRARY</a></li>
+         <li><a href="toolbox.php">TOOLBOX</a></li>
         </ul>
         </div>
 
@@ -74,10 +74,10 @@
                 <div class="linkwrap col-xs-8">
                   <div class="header-position-right">
                     <ul class="contact-navigation">
-                        <li>About</li> |
-                        <li>News & Events</li> |
-                        <li>Careers</li> |
-                        <li>Contact</li>
+                        <li><a href="about.php">About</a></li> |
+                        <li><a href="news.php">News & Events</a></li> |
+                        <li><a href="careers.php">Careers</a></li> |
+                        <li><a href="contact.php">Contact</a></li>
                     </ul>
                   </div>
                 </div>
@@ -97,10 +97,10 @@
               <div class="linkwrap col-xs-4">
                 <div class="header-position-right">
                   <ul class="contact-navigation">
-                    <li>About</li> |
-                    <li>News & Events</li> |
-                    <li>Careers</li> |
-                    <li>Contact</li>
+                    <li><a href="about.php">About</a></li> |
+                    <li><a href="news.php">News & Events</a></li> |
+                    <li><a href="careers.php">Careers</a></li> |
+                    <li><a href="contact.php">Contact</a></li>
                   </ul>
                   <img class="selector-button img-responsive" src="assets/imgs/selector.jpg"/>
                 </div>
@@ -133,11 +133,11 @@
             <div class="row">
                 <ul class="col-sm-12 navigation">
                     <li><a href="index.php">HOME</a></li>
-                    <li><a href="interior.php">INDUSTRIES</a></li>
-                    <li><a href="interior.php">GRADES</a></li>
-                    <li><a href="interior.php">QUALITY</a></li>
-                    <li><a href="interior.php">LIBRARY</a></li>
-                    <li><a href="interior.php">TOOLBOX</a></li>
+                    <li><a href="industries.php">INDUSTRIES</a></li>
+                    <li><a href="grades.php">GRADES</a></li>
+                    <li><a href="quality.php">QUALITY</a></li>
+                    <li><a href="library.php">LIBRARY</a></li>
+                    <li><a href="toolbox.php">TOOLBOX</a></li>
                 </ul>
             </div>
         </div>

@@ -15,13 +15,12 @@
 
 							<div class="footer-nav col-sm-12 col-md-6">
 								<ul>
-									<li>HOME</li> |
-									<li>INDUSTRIES</li> |
-									<li>GRADES</li> |
-									<li>QUALITY</li> |
-									<li>LIBRARY</li> |
-									<li>NEWS</li> |
-									<li>ABOUT</li>
+									<li><a href="index.php">HOME</a></li>  |
+									<li><a href="industries.php">INDUSTRIES</a></li>  |
+									<li><a href="grades.php">GRADES</a></li>  |
+									<li><a href="quality.php">QUALITY</a></li>  |
+									<li><a href="library.php">LIBRARY</a></li>  |
+									<li><a href="toolbox.php">TOOLBOX</a></li>
 								</ul><br />
 
 								<h4>Find out how we can solve your toughest wear problems.</h4>
@@ -74,13 +73,12 @@
 					<div class="row">
 						<div class="footer-nav text-center col-xs-12">
 							<ul>
-								<li>HOME</li> |
-								<li>INDUSTRIES</li> |
-								<li>GRADES</li> |
-								<li>QUALITY</li> |
-								<li>LIBRARY</li> |
-								<li>NEWS</li> |
-								<li>ABOUT</li>
+								<li><a href="index.php">HOME</a></li>  |
+								<li><a href="industries.php">INDUSTRIES</a></li>  |
+								<li><a href="grades.php">GRADES</a></li>  |
+								<li><a href="quality.php">QUALITY</a></li>  |
+								<li><a href="library.php">LIBRARY</a></li>  |
+								<li><a href="toolbox.php">TOOLBOX</a></li>
 							</ul>
 						</div>
 					</div>
@@ -150,13 +148,12 @@
 					<div class="row">
 						<div class="footer-nav col-xs-12">
 							<ul>
-								<li>HOME</li> |
-								<li>INDUSTRIES</li> |
-								<li>GRADES</li> |
-								<li>QUALITY</li> |
-								<li>LIBRARY</li> |
-								<li>NEWS</li> |
-								<li>ABOUT</li>
+								<li><a href="index.php">HOME</a></li>  |
+								<li><a href="industries.php">INDUSTRIES</a></li>  |
+								<li><a href="grades.php">GRADES</a></li>  |
+								<li><a href="quality.php">QUALITY</a></li>  |
+								<li><a href="library.php">LIBRARY</a></li>  |
+								<li><a href="toolbox.php">TOOLBOX</a></li>
 							</ul>
 						</div>
 					</div>
