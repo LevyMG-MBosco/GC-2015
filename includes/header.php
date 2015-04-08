@@ -112,19 +112,14 @@
                     <img src="assets/imgs/mag.png" />
                   </div>
               </div>
-
-
             </div>
-
         </div>
-
 
         <div class="mobile-header container">
           <div class="row">
             <img class="img-responsive" src="assets/imgs/GCLogo-hirez.png"/>
           </div>
         </div>
-
     </div>
 
 

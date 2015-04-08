@@ -1,88 +1,28 @@
 <?php include_once('includes/header.php'); ?>
-
-<div class="blue-background">
-    <div id="hero" class="container">
-        <div class="row">
-            <!-- Possible slider goes here, for now an img -->
-            <div class="col-sm-12 col-lg-8 hero-leftside">
-                <img src="assets/imgs/GCHero1.jpg" class="visible-lg-* hidden-md hidden-sm hidden-xs img-responsive" />
-                <img src="assets/imgs/GCHeroCompact.jpg" class="hidden-lg visible-xs-* img-responsive" />
-            </div>
-            <div class="col-sm-12 col-lg-4 hero-rightside">
-                <h1><span class="red-text">RE</span><span class="thin-text">DEFINING</span><br /> POSSIBLE</h1>
-                <p>Every day, General Carbide eatiis am, que et inim nos sendis acero tentemp errovit iandae rem sumendus, nis sum consequi dolores truptat ionest velitinvent parchiligent ma cosum nis aut od</p>
-
-            </div>
-        </div>
+<div class="interior-page-wrap container">
+  <!--  -->
+  <div class="row">
+    <div class="col-xs-8">
+      <div class="interior-header-image">
+          <img class="img-responsive" />
+      </div>
+      <div class="interior-content">
+        <img src='http://placehold.it/780x162' />
+        <h1>Combining Experience & Enthusiasm to Serve You Better</h1>
+        <p>Since 1968, we’ve been supplying industry with cemented carbide for the most demanding industrial wear and metal forming applications. Today, we offer more than 50 grades of cemented carbide for applications ranging from pure abrasion to high impingement erosive wear to chemical/mechanical corrosive wear, including applications that involve high-impact strength.</p>
+        <p>Our experienced team of application engineers and market managers can recommend Sinter-HIP grade formulations that best fit each customer’s application. With manufacturing capabilities that ensure high quality and reliable delivery, General Carbide is your best source for cemented carbide, high binder cobalt grades and more.</p>
+        <p>Having been in business for more than 45 years, we still approach every customer’s challenge with unmatched enthusiasm. Let us show you how we can meet your industrial wear requirements and help you enhance productivity.</p>
+      </div>
     </div>
+    <div class="col-xs-4">
+      <div class="interior-nav">
+        <ul class="nav">
+          <span><li id="nav0" class="selected">Toolbox</li></span>
+          <span><li id="nav1">Grade Selector</li></span>
+          <span><li id="nav2">Conversion Calculators</li></span>
+        </ul>
+      </div>
+    </div>
+  </div>
 </div>
-
-<div id="white_content" class="container">
-    <div class="row">
-        <h1 class="col-sm-12">Tungsten Carbide Preforms, Wear Parts and Specialty Components</h1>
-        <p class="col-sm-12">General Carbide manufactures more than 50 grades of tungsten carbide for a variety of industrial wear and metal forming applications. We offer the industry’s tightest material specifications in producing everything from highly complex preforms to stress-free EDM blanks. Our unbeatable combination of high-quality materials, metallurgical expertise, and engineering excellence make us the market leader.</p>
-
-
-    </div>
-    <div class="row">
-        <div class="col-sm-4">
-          <h1>INDUSTRIES</h1>
-          <img class="img-overlaid img-responsive" src="assets/imgs/sub1.jpg"/>
-          <div class="overlay"><p>Lorem ipsum dolar sit amet</p></div>
-        </div>
-        <div class="col-sm-4">
-          <h1>GRADES</h1>
-          <img class="img-overlaid img-responsive" src="assets/imgs/sub2.jpg"/>
-          <div class="overlay"><p>Lorem ipsum dolar sit amet</p></div>
-        </div>
-        <div class="col-sm-4">
-          <h1>QUALITY</h1>
-          <img class="img-overlaid img-responsive" src="assets/imgs/sub3.jpg"/>
-          <div class="overlay"><p>Lorem ipsum dolar sit amet</p></div>
-        </div>
-    </div>
-</div>
-
-
-<div class="red-background">
-    <div id="red_splash" class="container">
-        <div class="row">
-            <h2 class="col-sm-12 col-md-7">For more than 40 years,<br /> General Carbide has provided<br /> unparalleled carbide grades,<br /> wear parts and components.</h2>
-            <div class="col-sm-12 col-md-5 hidden-xs hidden-sm visible-md-*">
-                <img class="img-responsive" src="assets/imgs/Tools.png" />
-            </div>
-        </div>
-    </div>
-</div>
-
-<div id="white_content2" class="container">
-    <div class="row">
-        <div class="col-sm-6">
-            <div class="row">
-                <div class="col-sm-4">
-                    <img class="img-responsive" src="assets/imgs/parts.jpg" />
-                </div>
-                <div class="col-sm-8">
-                    <h3>Grade Charts</h3>
-                    <p>We offer more than 50 grades of tungsten carbide tooling lorem ipsum</p>
-                    <a class="learnmore" href="#">Learn More</a>
-                </div>
-            </div>
-        </div>
-
-        <div class="col-sm-6">
-            <div class="row">
-                <div class="col-sm-4">
-                    <img class="img-responsive" src="assets/imgs/toolbox.jpg" />
-                </div>
-                <div class="col-sm-8">
-                    <h3>Download our mobile app!</h3>
-                    <p>Find the best grade for our application, quickly convert Rockwell Hardness scales, and much more!</p>
-                    <a class="learnmore" href="#">Learn More</a>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-
 <?php include_once('includes/footer.php'); ?>

@@ -17,21 +17,10 @@
     <div class="col-xs-4">
       <div class="interior-nav">
         <ul class="nav">
-          <span><li id="nav0" class="selected">Industries</li></span>
-          <span><li id="nav1">Ammunition Tooling &<br /> Firearms Manufacturing</li></span>
-          <span><li id="nav2">Can Tooling</li></span>
-          <span><li id="nav3">Fastener Tooling</li></span>
-          <span><li id="nav4">General Metalforming</li></span>
-          <span><li id="nav5">Oil & Gas Components</li></span>
-          <span><li id="nav6">PM/Compaction Tooling</li></span>
-          <span><li id="nav7">Rooftile Tooling</li></span>
-          <span><li id="nav8">Rotary Cutting Dies</li></span>
-          <span><li id="nav9">Rotary Tooling</li></span>
-          <span><li id="nav10">Severe Service Tooling</li></span>
-          <span><li id="nav11">Specialty Tooling</li></span>
-          <span><li id="nav12">Stamping/Lamination Tooling</li></span>
-          <span><li id="nav13">Synthetic Diamond<br /> Manufacturing</li></span>
-          <!--<span><li id="nav13">Wire Drawing Tooling</li></span>-->
+          <span><li id="nav0" class="selected">About</li></span>
+          <span><li id="nav1">Veterans</li></span>
+          <span><li id="nav2">Premo Award</li></span>
+          <span><li id="nav3">Videos</li></span>
         </ul>
       </div>
     </div>
