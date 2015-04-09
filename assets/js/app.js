@@ -11,8 +11,8 @@ var content = {
   "nav7":"<img src='http://placehold.it/780x162' /><h1>Rooftile Tooling</h1><p>General Carbide is a global supplier of semi-finished concrete rooftile tooling components. We offer a wide selection of Sinter-HIPed grades for:</p><ul>  <li>Rollers</li>  <li>Slippers</li>  <li>Water Channels</li>  <li>Wear Slips</li></ul><p>We also provide many grades that are corrosion-resistant and have anti-galling characteristics for longer tooling life. </p><p>Besides providing new tooling, we’re able to refurbish your spent components with cost-effective repairs and re-grinds.</p>",
   "nav8":"<img src='http://placehold.it/780x162' /><h1>Rotary Cutting Dies</h1><p>At General Carbide, we manufacture semi-finished tungsten carbide tooling for rotary knives and anvils to meet your particular cutting requirements. We can produce tools with diameters up to 330mm (13\") with common edge, or with segmented cutting edge designs.</p><p>We also manufacture unground tungsten carbide blanks in a wide variety of shapes for producing feminine hygiene products, diapers, first-aid supplies and other consumer products.</p><p>All of our dies are Sinter-HIPed to ensure the highest metallurgical quality and have customized inner diameters and lengths finish-ground to fit your steel shaft.</p>",
   "nav9":"<img src='http://placehold.it/780x162' /><h1>Rotary Tooling</h1><p>Our semi-finished rotary tool blanks ship ready for pointing, final fluting and finish grinding to customer specifications.</p><p>The products we supply include:</p><ul>  <li>Precision preforms with green-machined flutes & utility grinds</li>  <li>Straight blanks with stepped diameters ready to be turned from a blank into a finished end mill or drill</li></ul><p>Our combination of shaping skills and modern equipment can meet the most demanding specifications. That’s why you’ll find our grades used in a multitude of metal cutting applications that require:</p><ul>  <li>Excellent wear life</li>  <li>Superior corrosion resistance to grinding fluids</li></ul><p>For applications involving composite materials, we offer sub-micron, lower binder grades to prevent extreme abrasion.</p>",
-  "nav10":"<img src='http://placehold.it/780x162' /><h1>Severe Service Tooling</h1><p>Our wide range of finished tungsten carbide wear parts, components and assemblies offer superior toughness and erosion/corrosion resistance.</p><p>General Carbide severe service tooling is ideal for applications in:</p><ul>  <li>Oil & Gas Exploration and Production</li>  <li>Petrochemical Manufacturing</li>  <li>Power Generation</li>  <li>Pulp & Paper Production</li></ul><p>Using engineering know-how based on vast experience, we make sure your wear parts, components and assemblies can withstand corrosion, erosion, abrasion or impact.",
-  "nav11":"<img src='http://placehold.it/780x162' /><h1>Specialty Tooling</h1><p>We offer tungsten carbide finished tooling for the production of boring bars, wear parts, and specialty components and parts. </p><p>Regardless of your particular application, our engineering and manufacturing know-how enables us to develop the ideal solution.",
+  "nav10":"<img src='http://placehold.it/780x162' /><h1>Severe Service Tooling</h1><p>Our wide range of finished tungsten carbide wear parts, components and assemblies offer superior toughness and erosion/corrosion resistance.</p><p>General Carbide severe service tooling is ideal for applications in:</p><ul>  <li>Oil & Gas Exploration and Production</li>  <li>Petrochemical Manufacturing</li>  <li>Power Generation</li>  <li>Pulp & Paper Production</li></ul><p>Using engineering know-how based on vast experience, we make sure your wear parts, components and assemblies can withstand corrosion, erosion, abrasion or impact.<p>",
+  "nav11":"<img src='http://placehold.it/780x162' /><h1>Specialty Tooling</h1><p>We offer tungsten carbide finished tooling for the production of boring bars, wear parts, and specialty components and parts. </p><p>Regardless of your particular application, our engineering and manufacturing know-how enables us to develop the ideal solution.</p>",
   "nav12":"<img src='http://placehold.it/780x162' /><h1>Stamping/Lamination Tooling</h1><p>As a manufacturer of semi-finished tooling for tungsten carbide progressive die components. EDM blanks and more, we offer a variety of grades for stamping applications. Many of our grades are corrosion-resistant to help prevent damage to your die components during fabrication, as well as leaching from lubricants.</p><p>Whether you’re stamping electrical connectors, computer components, motor laminations, medical products, or anything else, we have an ideal grade for your application.</p><p>Our punch and die components are used by customers worldwide. We also supply custom-shaped preform blanks and blocks for Wire Electrical Discharge Machining (EDM). Our EDM blanks feature superior metallurgical integrity and deliver outstanding performanceIn a multitude of applications. All of our blanks are stress-relieved and Sinter-HIPed using proprietary thermal cycles.</p><p>The combination of EDM and Sinter-HIP virtually eliminates the risk of cracking, distortion or pre-mature failure during EDM. The resulting benefits are a smoother flow on your production line and an improved record for on-time deliveries.</p>",
   "nav13":"<img src='http://placehold.it/780x162' /><h1>Synthetic Diamond Manufacturing</h1><p>General Carbide sets the standard for producing semi-finished diamond compaction tooling. Our carbide grades feature long life cycles due to the double hot isostatic pressing (HIP) process the material undergoes. In fact, we sinter all of our products in a Sinter-HIP Furnace where the simultaneous application of heat and pressure fully consolidate the material’s microstructure.</p><p>After leaving the furnace, our diamond compaction anvils undergo separate post-sintering treatment. They are then Sinter-HIPed again under higher pressure and at temperatures that almost reach the original sintering temperature. This process ensures that the material has no residual voids or flaws and can deliver a higher degree of performance than comparable materials.</p><h2>Outstanding Surfaces, Too</h2><p>We also supply carbide substrates and backup discs, pressing and sintering substrates with intricate surface configurations built into the press tooling. The substrates upon which the polycrystalline diamond (PCD) is sintered are proven products that can withstand extremely high compressive loading, as well as fatigue from the cyclical action of the press.</p><p>Our superior ultrasonic cleaning operation, which includes a proprietary cleaning solution, provides a surface finish condition receptive to the PCD table without pre-cleaning and makes brazing easier. </p>"
 }
@@ -79,14 +79,16 @@ $(document).ready(function () {
     });
 
     //Drive the interior page navigation
-    $(".interior-nav li").click(function(){
-        $(".interior-nav li").each(function(){
-            $(this).removeClass("selected");
-        });
-        $(this).addClass("selected");
+    $('#nav').onePageNav({currentClass: "selected"});
 
-        //Change the industry content
-        $('.interior-content').html(content[$(this).attr('id')]);
+    $(window).scroll(function(){
+    var window_top = $(window).scrollTop() + 12; // the "12" should equal the margin-top value for nav.stick
+    var div_top = $('#nav-anchor').offset().top;
+    if (window_top > div_top) {
+        $('#nav').addClass('stick');
+    } else {
+        $('#nav').removeClass('stick');
+    }
     });
 
 
@@ -97,4 +99,5 @@ $(document).ready(function () {
     $('.overlay').mouseleave(function(){
       $(this).fadeOut(200);
     });
+
 });

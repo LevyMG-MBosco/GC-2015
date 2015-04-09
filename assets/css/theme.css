@@ -409,6 +409,28 @@ body{
 	width: 100%;
 }
 
+.interior-nav a{
+	color: white;
+	text-decoration: none;
+}
+
+.interior-nav a:hover{
+	color: white;
+	text-decoration: none;
+}
+
+#nav.stick{
+	position: fixed;
+	right: 130px;
+	z-index: 10000;
+	top: 0;
+	margin-top: 12px;
+}
+
+.section{
+	min-height: 600px;
+}
+
 /* Footer styling */
 .footer{
 	color: #fff;

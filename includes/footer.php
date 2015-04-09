@@ -226,6 +226,8 @@
 	</div>
 <script src="//code.jquery.com/jquery.min.js"></script>
 <script type="text/javascript" src="assets/js/app.js"></script>
-
+<!--Enables the scrollto functions on interior pages-->
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery-scrollTo/1.4.14/jquery.scrollTo.min.js"></script>
+<script src="assets/js/jquery.nav.js"></script>
 </body>
 </html>

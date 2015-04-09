@@ -18,7 +18,7 @@
 <script>try{Typekit.load();}catch(e){}</script>
 
 </head>
-<body>
+<body id="top">
 <div id="page-content">
 <!-- Mobile nav implementation -->
         <div class="navbar navbar-inverse navbar-fixed-top" role="navigation" id="slide-nav">
