@@ -116,11 +116,23 @@ body{
 	background: #ddd;
 }
 
-.overlay-header h1{
+.overlay-header{
 	margin-bottom: 0px;
+	background-color: #ddd;
 }
 
 /* Landing page overlay */
+.overlay{
+	position: relative;
+}
+
+.overlay p{
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	height: 100%;
+	width: 100%;
+}
 
 .overlay-opacity{
 	width: 100%;
@@ -129,11 +141,10 @@ body{
 	left: 0;
 	top: 0;
 	background-color: rgba(0,0,0,0.2);
-	border-left: 15px solid #fff;
-	border-right: 15px solid #fff;
 	display:none;
-	padding: 0px 15px;
 }
+
+
 
 .header-content > .red-background:last-child{
 	margin-top: 5px;
@@ -380,7 +391,6 @@ body{
 
 /* Interior Styling */
 .interior-nav{
-		display: table;
 		width: 170px;
 		height: 755px;
 		float: right;
@@ -392,10 +402,10 @@ body{
 }
 
 .interior-nav li{
-		display: table-cell;
 		font-size: 12px;
 		color: white;
 		padding: 4px;
+		margin: 2px;
 		background: rgba(0,0,0,.4);
 		cursor: pointer;
 }
