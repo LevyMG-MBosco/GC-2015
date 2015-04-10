@@ -112,12 +112,26 @@ body{
 	padding: 5px;
 }
 
-.overlay{
-	height: 100%;
+.overlay-header{
+	background: #ddd;
+}
+
+.overlay-header h1{
+	margin-bottom: 0px;
+}
+
+/* Landing page overlay */
+
+.overlay-opacity{
 	width: 100%;
+	height: 100%;
 	position: absolute;
-	top: 0px;
-	left: 0px;
+	left: 0;
+	top: 0;
+	background-color: rgba(0,0,0,0.2);
+	border-left: 15px solid #fff;
+	border-right: 15px solid #fff;
+	display:none;
 	padding: 0px 15px;
 }
 
@@ -312,20 +326,6 @@ body{
 	font-size: 22px;
 	padding: 15px 10px;
 	line-height: 32px;
-}
-
-
-/* Landing page overlay */
-.overlay{
-	width: 100%;
-	height: 100%;
-	position: absolute;
-	left: 0;
-	top: 0;
-	background-color: rgba(0,0,0,0.2);
-	border-left: 15px solid #fff;
-	border-right: 15px solid #fff;
-	display:none;
 }
 
 .thin-text{

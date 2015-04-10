@@ -26,19 +26,34 @@
     </div>
     <div class="row">
         <div class="col-sm-4">
-          <h1>INDUSTRIES</h1>
-          <img class="img-overlaid img-responsive" src="assets/imgs/sub1.jpg"/>
-          <div class="overlay"><p>Lorem ipsum dolar sit amet</p></div>
+          <h2 class="overlay-header">INDUSTRIES</h2>
+          <div class="overlay">
+            <img class="img-overlaid img-responsive" src="assets/imgs/sub1.jpg" />
+
+            <div class="overlay-opacity">
+              <p>Lorem ipsum dolar sit amet</p>
+            </div>
+          </div>
         </div>
         <div class="col-sm-4">
-          <h1>GRADES</h1>
-          <img class="img-overlaid img-responsive" src="assets/imgs/sub2.jpg"/>
-          <div class="overlay"><p>Lorem ipsum dolar sit amet</p></div>
+          <h2 class="overlay-header">GRADES</h2>
+          <div class="overlay">
+            <img class="img-overlaid img-responsive" src="assets/imgs/sub2.jpg" />
+
+            <div class="overlay-opacity">
+              <p>Lorem ipsum dolar sit amet</p>
+            </div>
+          </div>
         </div>
         <div class="col-sm-4">
-          <h1>QUALITY</h1>
-          <img class="img-overlaid img-responsive" src="assets/imgs/sub3.jpg"/>
-          <div class="overlay"><p>Lorem ipsum dolar sit amet</p></div>
+          <h2 class="overlay-header">QUALITY</h2>
+          <div class="overlay">
+            <img class="img-overlaid img-responsive" src="assets/imgs/sub3.jpg" />
+
+            <div class="overlay-opacity">
+              <p>Lorem ipsum dolar sit amet</p>
+            </div>
+          </div>
         </div>
     </div>
 </div>
