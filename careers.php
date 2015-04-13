@@ -15,9 +15,10 @@
       </div>
     </div>
     <div class="col-xs-4">
+      <div id="nav-anchor"></div>
       <div class="interior-nav">
         <ul class="nav">
-          <span><li id="nav0" class="selected">Application Form</li></span>
+          <span><li class="selected">Application Form</li></span>
         </ul>
       </div>
     </div>

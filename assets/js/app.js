@@ -77,8 +77,8 @@ $(document).ready(function () {
 
 
     //Drives the landing page's overlay fades
-    $('.overlay').mouseenter(function(){
-      $(this).next().fadeIn(200);
+    $('.img-overlaid').mouseenter(function(){
+      $(this).next('div').fadeIn(200);
     });
     $('.overlay-opacity').mouseleave(function(){
       $(this).fadeOut(200);

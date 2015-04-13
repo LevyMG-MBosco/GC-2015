@@ -391,9 +391,8 @@ body{
 
 /* Interior Styling */
 .interior-nav{
-		width: 170px;
 		height: 755px;
-		float: right;
+		position: absolute;
 		border-spacing: 0 2px;
 }
 
@@ -405,7 +404,8 @@ body{
 		font-size: 12px;
 		color: white;
 		padding: 4px;
-		margin: 2px;
+		margin: 3px;
+		width: 155px;
 		background: rgba(0,0,0,.4);
 		cursor: pointer;
 }
@@ -413,6 +413,10 @@ body{
 .interior-nav li.selected{
 	box-shadow: 2px 2px 0px #000;
 	background: rgba(0,0,0,.7);
+}
+
+.interior-content{
+	position: relative;
 }
 
 .interior-content img{
@@ -431,7 +435,6 @@ body{
 
 #nav.stick{
 	position: fixed;
-	right: 130px;
 	z-index: 10000;
 	top: 0;
 	margin-top: 12px;
