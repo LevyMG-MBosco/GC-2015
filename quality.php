@@ -78,6 +78,16 @@
           </div>
           <div class="row">
             <div class="col-xs-12 col-sm-9">
+              <h1>Quality Policy</h1>
+              <p>General Carbide Corporation is strongly committed to being a World Class Supplier of Tungsten Carbide Preforms and Finished Goods. We maintain an ISO 9001 compliant Quality Management System and promote a culture of continuous improvement for both the quality of our products and systems.</p>
+              <h2>At General Carbide Corporation, <span class="red-text">“WE CAN!”</span></h2>
+              <ul>
+                <li><span class="red-text">W</span>ork Together as a Cohesive Team</li>
+                <li><span class="red-text">E</span>xceed our Customer's Expectations for Quality and Performance</li>
+                <li><span class="red-text">C</span>ontinually Improve our Products and Processes</li>
+                <li><span class="red-text">A</span>lways Deliver On Time</li>
+                <li><span class="red-text">N</span>o Defects!</li>
+              </ul>
             </div>
             <div class="col-xs-12 col-sm-3">
               <!-- Section side content goes here -->

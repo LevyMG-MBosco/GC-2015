@@ -433,6 +433,15 @@ body{
 	text-decoration: none;
 }
 
+.red-text{
+	color: #red;
+	font-weight: 600;
+}
+
+.interior-content .seal{
+	width: 125px;
+}
+
 #nav.stick{
 	position: fixed;
 	z-index: 10000;
