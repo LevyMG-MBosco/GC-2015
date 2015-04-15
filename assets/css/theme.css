@@ -5,6 +5,18 @@ body{
 	font-weight: 300;
 }
 
+h2{
+	font-size: 28px;
+}
+
+h3{
+	font-size: 27px;
+	color: #e21836;
+}
+h4{
+	font-size: 20px;
+}
+
 .navigation a:hover{
 	text-decoration: none;
 }
@@ -19,6 +31,10 @@ body{
 
 .footer-nav a{
 	color: white;
+}
+
+.footer input[type="submit"]{
+	background-color: #333;
 }
 
 .blur-background{
@@ -45,6 +61,11 @@ body{
 	color: #fff;
 }
 
+.learnmore:hover{
+	text-decoration: none;
+	color: #fff;
+}
+
 
 /* Header Styling */
 .searchbar-position-right{
@@ -68,6 +89,53 @@ body{
 	width: 27px;
 }
 
+.news-section{
+	border: solid 1px #ddd;
+	width: 100%;
+	height: auto;
+	margin: 0px;
+	padding: 5px;
+}
+
+.news-section a{
+	font-weight: 600;
+	text-decoration: underline;
+}
+
+.careers-sidebar{
+	margin: 10px 0px;
+	border: solid 3px #e21836;
+}
+
+.careers-sidebar p{
+	padding: 0px 24px;
+}
+
+.careers-sidebar-container > :first-child{
+	margin-top: 35px;
+}
+
+.pdf-wrap{
+	text-align: center;
+	margin-top: 45px;
+}
+
+.pdf-wrap p{
+	font-weight: 600;
+}
+
+.pdf-wrap span{
+	font-weight: 400;
+}
+
+.interior-content img.pdf-icon{
+	width: 55px;
+}
+
+.pdf-filename{
+	font-size: 11px;
+}
+
 .selector-button{
 	width: 127px;
 	position: absolute;
@@ -80,7 +148,7 @@ body{
 }
 
 .header-content > div > .container .row .logowrap img{
-	width: 75px;
+	width: 220px;
 	margin: 0px;
 }
 
@@ -113,12 +181,14 @@ body{
 }
 
 .overlay-header{
-	background: #ddd;
+	margin-bottom: 0px;
+	background-color: #333;
+	color: #fff;
+	padding: 5px;
 }
 
-.overlay-header{
-	margin-bottom: 0px;
-	background-color: #ddd;
+.overlay-opacity p{
+	color: #fff;
 }
 
 /* Landing page overlay */
@@ -132,6 +202,7 @@ body{
 	left: 0px;
 	height: 100%;
 	width: 100%;
+	font-size: 17px;
 }
 
 .overlay-opacity{
@@ -140,7 +211,7 @@ body{
 	position: absolute;
 	left: 0;
 	top: 0;
-	background-color: rgba(0,0,0,0.2);
+	background-color: rgba(0,0,0,0.5);
 	display:none;
 }
 
@@ -232,6 +303,18 @@ body{
 	position: absolute;
 	right: 0px;
 	bottom: 10px;
+}
+
+.desktop-footer{
+	padding: 15px 0px;
+}
+
+.tablet-footer{
+	padding: 10px 0px;
+}
+
+.mobile-footer{
+	padding: 5px 0px;
 }
 
 @media (min-width: 992px){
@@ -402,17 +485,55 @@ body{
 
 .interior-nav li{
 		font-size: 12px;
-		color: white;
 		padding: 4px;
-		margin: 3px;
-		width: 155px;
-		background: rgba(0,0,0,.4);
+		color: #000;
+		margin: 3px 3px 3px 8px;
+		width: 170px;
 		cursor: pointer;
 }
 
-.interior-nav li.selected{
-	box-shadow: 2px 2px 0px #000;
-	background: rgba(0,0,0,.7);
+.interior-nav li a{
+	color: #000;
+	font-size: 14px;
+}
+
+.interior-nav li a:hover{
+	color: #000;
+	font-weight: 600;
+}
+
+.interior-nav li.selected a{
+	font-weight: 600;
+	color: #e21836;
+}
+
+.backtotop img{
+	width: 32px;
+}
+
+.interior-nav li.backtotop{
+	margin-left: 3px;
+	color: #fff;
+	padding: 0px;
+}
+
+.interior-nav li.hierarchy.selected a{
+	color: #fff;
+	font-weight: 600;
+}
+
+.interior-nav li.hierarchy a:hover{
+	color: #fff;
+}
+
+.interior-nav li.hierarchy a{
+	font-weight: 600;
+}
+
+.interior-nav li.hierarchy{
+	margin-left: 3px;
+	background-color: #e21836;
+	color: #fff;
 }
 
 .interior-content{
@@ -421,6 +542,10 @@ body{
 
 .interior-content img{
 	width: 100%;
+}
+
+.interior-nav .hierarchy a{
+	color: #fff;
 }
 
 .interior-nav a{
@@ -434,7 +559,7 @@ body{
 }
 
 .red-text{
-	color: #red;
+	color: #e21836;
 	font-weight: 600;
 }
 
@@ -450,7 +575,7 @@ body{
 }
 
 .section{
-	min-height: 600px;
+	padding-bottom: 25px;
 }
 
 /* Footer styling */
@@ -473,8 +598,8 @@ body{
 	margin: 0px;
 }
 
-.footer .row > div > img{
-	padding: 10px 0px;
+.social-wrap img{
+	padding: 10px 10px;
 }
 
 
