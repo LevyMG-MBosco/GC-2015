@@ -10,7 +10,7 @@
         <div class="section" id="section-0">
           <div class="row">
             <div class="col-xs-12">
-              <img src='http://placehold.it/780x162' />
+              <img src='assets/imgs/Quality-HERO.jpg' />
             </div>
           </div>
           <div class="row">
@@ -33,6 +33,9 @@
               <p>Whether your requirements are complex or clear-cut, General Carbide has the engineering expertise, quality control and value pricing to become your single source for preferred supplier of components and assemblies for tungsten carbide tooling used in a variety of industrial wear and metal forming applications.</p>
             </div>
             <div class="col-xs-12 col-sm-3">
+              <div class="pdf-wrap">
+                <a href="assets/pdf/GCISOCert.pdf" target="_blank"><img style="width: 100px;" src="assets/imgs/ISO-Square.png" /></a>
+              </div>
               <!-- Section side content goes here -->
             </div>
           </div>
@@ -40,7 +43,7 @@
         <div class="section" id="section-1">
           <div class="row">
             <div class="col-xs-12">
-              <img src='http://placehold.it/780x162' />
+              <img src='assets/imgs/Quality-HIP.jpg' />
             </div>
           </div>
           <div class="row">
@@ -72,11 +75,6 @@
         </div>
         <div class="section" id="section-2">
           <div class="row">
-            <div class="col-xs-12">
-              <img src='http://placehold.it/780x162' />
-            </div>
-          </div>
-          <div class="row">
             <div class="col-xs-12 col-sm-9">
               <h1>Quality Policy</h1>
               <p>General Carbide Corporation is strongly committed to being a World Class Supplier of Tungsten Carbide Preforms and Finished Goods. We maintain an ISO 9001 compliant Quality Management System and promote a culture of continuous improvement for both the quality of our products and systems.</p>
@@ -98,13 +96,13 @@
     </div>
     <div class="col-xs-3">
       <div id="nav-anchor"></div>
-      <div class="interior-nav">
+      <div class="interior-nav"><!--
         <ul id="nav" class="nav">
           <span><li><a href="#top">Back to Top</a></li></span>
           <span><li class="selected"><a href="#section-0">Quality</a></li></span>
           <span><li><a href="#section-1">Sinter-HIP Advantages</a></li></span>
           <span><li><a href="#section-2">Quality Policy</a></li></span>
-        </ul>
+        </ul>-->
       </div>
     </div>
   </div>

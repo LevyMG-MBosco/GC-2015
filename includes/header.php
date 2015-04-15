@@ -68,10 +68,10 @@
             </div>
 
             <div class="row">
-                <div class="logowrap col-md-4 col-xs-12">
-                  <img style="width: 335px;" class="img-responsive" src="assets/imgs/GCLogo-hirez.png"/>
+                <div class="logowrap col-md-6 col-xs-12">
+                  <img style="width: 500px;" class="img-responsive" src="assets/imgs/GCLogo.gif"/>
                 </div>
-                <div class="linkwrap col-xs-8">
+                <div class="linkwrap col-xs-6">
                   <div class="header-position-right">
                     <ul class="contact-navigation">
                         <li><a href="about.php">About</a></li> |
@@ -91,7 +91,7 @@
             <div class="row">
 
               <div class="logowrap col-xs-4">
-                <img class="img-responsive" src="assets/imgs/GCLogo-mini.png"/>
+                <img class="img-responsive" src="assets/imgs/GCLogo.gif"/>
               </div>
 
               <div class="linkwrap col-xs-4">
@@ -117,7 +117,7 @@
 
         <div class="mobile-header container">
           <div class="row">
-            <img class="img-responsive" src="assets/imgs/GCLogo-hirez.png"/>
+            <img class="img-responsive" src="assets/imgs/GCLogo.gif"/>
           </div>
         </div>
     </div>

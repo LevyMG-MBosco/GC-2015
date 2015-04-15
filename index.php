@@ -10,7 +10,7 @@
             </div>
             <div class="col-sm-12 col-lg-4 hero-rightside">
                 <h1><span class="red-text">RE</span><span class="thin-text">DEFINING</span><br /> POSSIBLE</h1>
-                <p>Every day, General Carbide eatiis am, que et inim nos sendis acero tentemp errovit iandae rem sumendus, nis sum consequi dolores truptat ionest velitinvent parchiligent ma cosum nis aut od</p>
+                <p>Every day, General Carbide’s engineering and production teams use their expertise to provide customers with carbide tooling, assemblies and components that are able to withstand the harshest environments.</p>
 
             </div>
         </div>
@@ -21,8 +21,6 @@
     <div class="row">
         <h1 class="col-sm-12">Tungsten Carbide Preforms, Wear Parts and Specialty Components</h1>
         <p class="col-sm-12">General Carbide manufactures more than 50 grades of tungsten carbide for a variety of industrial wear and metal forming applications. We offer the industry’s tightest material specifications in producing everything from highly complex preforms to stress-free EDM blanks. Our unbeatable combination of high-quality materials, metallurgical expertise, and engineering excellence make us the market leader.</p>
-
-
     </div>
     <div class="row">
         <div class="col-sm-4">
@@ -31,7 +29,7 @@
             <img class="img-overlaid img-responsive" src="assets/imgs/sub1.jpg" />
 
             <div class="overlay-opacity">
-              <p>Lorem ipsum dolar sit amet</p>
+              <p>Our tungsten carbide tooling is ideal for industrial wear and metalforming applications, including ammunition, concrete wear parts, and rotary cutting dies.</p>
             </div>
           </div>
         </div>
@@ -41,7 +39,7 @@
             <img class="img-overlaid img-responsive" src="assets/imgs/sub2.jpg" />
 
             <div class="overlay-opacity">
-              <p>Lorem ipsum dolar sit amet</p>
+              <p>We produce more than 50 carbide grades in a wide range of binder concentrations and particle sizes, with the tightest overall material specifications.</p>
             </div>
           </div>
         </div>
@@ -51,7 +49,7 @@
             <img class="img-overlaid img-responsive" src="assets/imgs/sub3.jpg" />
 
             <div class="overlay-opacity">
-              <p>Lorem ipsum dolar sit amet</p>
+              <p>We’re ISO-Certified to meet your quality requirements and committed to meeting the highest standards in everything we do.</p>
             </div>
           </div>
         </div>
@@ -78,9 +76,9 @@
                     <img class="img-responsive" src="assets/imgs/parts.jpg" />
                 </div>
                 <div class="col-sm-8">
-                    <h3>Grade Charts</h3>
-                    <p>We offer more than 50 grades of tungsten carbide tooling lorem ipsum</p>
-                    <a class="learnmore" href="#">Learn More</a>
+                    <h3>Grade Specifications</h3>
+                    <p>We produce more than <b>50 carbide grades</b> in a wide range of binder concentrations and particle sizes</p>
+                    <a class="learnmore" href="assets/pdf/GCGradeSpecs.pdf">Learn More</a>
                 </div>
             </div>
         </div>
@@ -88,7 +86,7 @@
         <div class="col-sm-6">
             <div class="row">
                 <div class="col-sm-4">
-                    <img class="img-responsive" src="assets/imgs/toolbox.jpg" />
+                    <img class="img-responsive" src="assets/imgs/Download_Our_App.png" />
                 </div>
                 <div class="col-sm-8">
                     <h3>Download our mobile app!</h3>

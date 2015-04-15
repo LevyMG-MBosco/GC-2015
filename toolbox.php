@@ -10,15 +10,13 @@
         <div class="section" id="section-0">
           <div class="row">
             <div class="col-xs-12">
-              <img src='http://placehold.it/780x162' />
+              <img src='assets/imgs/Toolbox-HERO.jpg' />
             </div>
           </div>
           <div class="row">
             <div class="col-xs-12 col-sm-9">
-              <h1>Combining Experience & Enthusiasm to Serve You Better</h1>
-              <p>Since 1968, we’ve been supplying industry with cemented carbide for the most demanding industrial wear and metal forming applications. Today, we offer more than 50 grades of cemented carbide for applications ranging from pure abrasion to high impingement erosive wear to chemical/mechanical corrosive wear, including applications that involve high-impact strength.</p>
-              <p>Our experienced team of application engineers and market managers can recommend Sinter-HIP grade formulations that best fit each customer’s application. With manufacturing capabilities that ensure high quality and reliable delivery, General Carbide is your best source for cemented carbide, high binder cobalt grades and more.</p>
-              <p>Having been in business for more than 45 years, we still approach every customer’s challenge with unmatched enthusiasm. Let us show you how we can meet your industrial wear requirements and help you enhance productivity.</p>
+              <h1>ToolBox</h1>
+              <p>At General Carbide, we want to be your “go to” source for technical guidance. That’s why we’ve created Toolbox — our suite of tools that allows you to easily select the best grade for your application.</p>
             </div>
             <div class="col-xs-12 col-sm-3">
               <!-- Section side content goes here -->
@@ -30,12 +28,10 @@
         <div class="row">
           <div class="col-xs-12">
             <div class="row">
-              <div class="col-xs-12">
-                <img src='http://placehold.it/780x162' />
-              </div>
-            </div>
-            <div class="row">
               <div class="col-xs-12 col-sm-9">
+                <h3>Grade Selector</h3>
+                <p>Let our interactive guide help you to select the best grade for your specific application. Narrow your choices by industry and performance characteristics.</p>
+                <a href="http://www.levydev.com/gc/index.php"><img src="assets/imgs/GradeSelector.jpg" /></a>
               </div>
               <div class="col-xs-12 col-sm-3">
                 <!-- Section side content goes here -->
@@ -50,12 +46,26 @@
         <div class="row">
           <div class="col-xs-12">
             <div class="row">
-              <div class="col-xs-12">
-                <img src='http://placehold.it/780x162' />
+              <div class="col-xs-12 col-sm-9">
+                <h3>Conversion Calculator</h3>
+                <p>Allows you to convert measurements related to Pressure, Density, Mass, Length, Force and Temperature from English to metric units.</p>
+              </div>
+              <div class="col-xs-12 col-sm-3">
+                <!-- Section side content goes here -->
               </div>
             </div>
+          </div>
+          <div class="col-xs-12 col-sm-10">
+          </div>
+        </div>
+      </div>
+      <div class="section" id="section-3">
+        <div class="row">
+          <div class="col-xs-12">
             <div class="row">
               <div class="col-xs-12 col-sm-9">
+                <h3>Hardness Conversion Scales</h3>
+                <p>Makes it easy for you to convert from Rockwell “A” to Rockwell “C” (HRA-HRC), as well as from HRA to Vickers HV30 and HV10 values.</p>
               </div>
               <div class="col-xs-12 col-sm-3">
                 <!-- Section side content goes here -->
@@ -69,13 +79,13 @@
     </div>
     <div class="col-xs-3">
       <div id="nav-anchor"></div>
-      <div class="interior-nav">
+      <div class="interior-nav"><!--
         <ul id="nav" class="nav">
           <span><li><a href="#top">Back to Top</a></li></span>
           <span><li class="selected"><a href="#section-0">Toolbox</a></li></span>
           <span><li><a href="#section-1">Grade Selector</a></li></span>
           <span><li><a href="#section-2">Conversion Calculators</a></li></span>
-        </ul>
+        </ul>-->
       </div>
     </div>
   </div>

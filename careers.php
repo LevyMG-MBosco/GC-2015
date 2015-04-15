@@ -2,24 +2,74 @@
 <div class="interior-page-wrap container">
   <!--  -->
   <div class="row">
-    <div class="col-xs-8">
+    <div class="col-xs-12 col-sm-8">
       <div class="interior-header-image">
           <img class="img-responsive" />
       </div>
       <div class="interior-content">
-        <img src='http://placehold.it/780x162' />
-        <h1>Combining Experience & Enthusiasm to Serve You Better</h1>
-        <p>Since 1968, we’ve been supplying industry with cemented carbide for the most demanding industrial wear and metal forming applications. Today, we offer more than 50 grades of cemented carbide for applications ranging from pure abrasion to high impingement erosive wear to chemical/mechanical corrosive wear, including applications that involve high-impact strength.</p>
-        <p>Our experienced team of application engineers and market managers can recommend Sinter-HIP grade formulations that best fit each customer’s application. With manufacturing capabilities that ensure high quality and reliable delivery, General Carbide is your best source for cemented carbide, high binder cobalt grades and more.</p>
-        <p>Having been in business for more than 45 years, we still approach every customer’s challenge with unmatched enthusiasm. Let us show you how we can meet your industrial wear requirements and help you enhance productivity.</p>
+        <h1>Careers</h1>
+        <p>As a growing company, General Carbide is always looking for people who are skilled in:</p>
+        <ul>
+          <li>CNC Mill Operation</li>
+          <li>Grinding</li>
+          <li>Horizontal Lathe Operation</li>
+          <li>Isostatic (Iso) Press Operation</li>
+          <li>Maintenance</li>
+          <li>Powder Processing</li>
+          <li>Tool & Die Production</li>
+          <li>Vertical Lathe Operation</li>
+        </ul>
+        <p>If you're interested in taking your career to new heights at General Carbide, please take a look at our available positions.</p>
+        <p>As an equal opportunity employer, we offer competitive wages along with these generous benefits:</p>
+        <p class="red-text">Health Insurance</p>
+        <ul>
+          <li>Hospitalization/POS</li>
+          <li>Prescription drugs</li>
+          <li>Vision</li>
+          <li>Dental</li>
+          <li>Flexible Spending Accounts</li>
+        </ul>
+        <p class="red-text">Other Insurance</p>
+        <ul>
+          <li>Group Term Life</li>
+          <li>Accidental Death & Dismemberment</li>
+          <li>Short Term Disability</li>
+          <li>Long Term Disability</li>
+        </ul>
+        <p class="red-text">Paid Time Off</p>
+        <ul>
+          <li>Vacation days based on years of service</li>
+          <li>11 Holidays</li>
+        </ul>
+        <p class="red-text">Retirement Plan</p>
+        <ul>
+          <li>401K Account</li>
+        </ul>
+        <p class="red-text">Other Benefits</p>
+        <ul>
+          <li>Employee Assistance Plan</li>
+          <li>Social Events</li>
+          <li>Overtime & Shift Differential Pay</li>
+          <li>Education Reimbursement</li>
+          <li>Safety Equipment Allowance</li>
+        </ul>
       </div>
     </div>
-    <div class="col-xs-4">
+    <div class="col-xs-12 col-sm-4 careers-sidebar-container">
       <div id="nav-anchor"></div>
-      <div class="interior-nav">
-        <ul class="nav">
-          <span><li class="selected">Application Form</li></span>
+      <img style="width: 360px;" src="assets/imgs/JoinTeam.jpg" />
+      <div class="careers-sidebar">
+        <p>Select <span class="red-text">one of the options below</span> to apply for employment.</p>
+        <ul>
+          <li><a href="">Send us your resume</a></li>
+          <li><a href="">Download our application form</a></li>
         </ul>
+      </div>
+      <div class="careers-sidebar">
+        <img class="img-responsive" src="assets/imgs/quote3.jpg" />
+      </div>
+      <div class="careers-sidebar">
+        <img class="img-responsive" src="assets/imgs/quote2.jpg" />
       </div>
     </div>
   </div>

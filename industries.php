@@ -10,7 +10,7 @@
         <div class="section" id="section-0">
           <div class="row">
             <div class="col-xs-12">
-              <img src='http://placehold.it/780x162' />
+              <img src='assets/imgs/Industries-HERO.jpg' />
             </div>
           </div>
           <div class="row">
@@ -73,7 +73,7 @@
         <div class="section" id="section-4">
           <div class="row">
             <div class="col-xs-12">
-              <img src='http://placehold.it/780x162' />
+              <img src='assets/imgs/GeneralMetalforming-Header.jpg' />
             </div>
           </div>
           <div class="row">
@@ -88,7 +88,7 @@
         <div class="section" id="section-5">
           <div class="row">
             <div class="col-xs-12">
-              <img src='http://placehold.it/780x162' />
+              <img src='assets/imgs/Oil-Gas-Header.jpg' />
             </div>
           </div>
           <div class="row">
@@ -103,7 +103,7 @@
         <div class="section" id="section-6">
           <div class="row">
             <div class="col-xs-12">
-              <img src='http://placehold.it/780x162' />
+              <img src='assets/imgs/PM-Compaction-Header.jpg' />
             </div>
           </div>
           <div class="row">
@@ -118,7 +118,7 @@
         <div class="section" id="section-7">
           <div class="row">
             <div class="col-xs-12">
-              <img src='http://placehold.it/780x162' />
+              <img src='assets/imgs/Rooftile-Header.jpg' />
             </div>
           </div>
           <div class="row">
@@ -133,7 +133,7 @@
         <div class="section" id="section-8">
           <div class="row">
             <div class="col-xs-12">
-              <img src='http://placehold.it/780x162' />
+              <img src='assets/imgs/RotaryCuttingDies-Header.jpg' />
             </div>
           </div>
           <div class="row">
@@ -148,7 +148,7 @@
         <div class="section" id="section-9">
           <div class="row">
             <div class="col-xs-12">
-              <img src='http://placehold.it/780x162' />
+              <img src='assets/imgs/RotaryTooling-Header.jpg' />
             </div>
           </div>
           <div class="row">
@@ -163,7 +163,7 @@
         <div class="section" id="section-10">
           <div class="row">
             <div class="col-xs-12">
-              <img src='http://placehold.it/780x162' />
+              <img src='assets/imgs/SevereService-Header.jpg' />
             </div>
           </div>
           <div class="row">
@@ -178,7 +178,7 @@
         <div class="section" id="section-11">
           <div class="row">
             <div class="col-xs-12">
-              <img src='http://placehold.it/780x162' />
+              <img src='assets/imgs/SpecialtyTooling-Header.jpg' />
             </div>
           </div>
           <div class="row">
@@ -193,7 +193,7 @@
         <div class="section" id="section-12">
           <div class="row">
             <div class="col-xs-12">
-              <img src='http://placehold.it/780x162' />
+              <img src='assets/imgs/Stamping-Lamination-Header.jpg' />
             </div>
           </div>
           <div class="row">
@@ -208,7 +208,7 @@
         <div class="section" id="section-13">
           <div class="row">
             <div class="col-xs-12">
-              <img src='http://placehold.it/780x162' />
+              <img src='assets/imgs/SyntheticDiamond-Header.jpg' />
             </div>
           </div>
           <div class="row">
@@ -226,8 +226,8 @@
       <div id="nav-anchor"></div>
       <div class="interior-nav">
         <ul id="nav" class="nav">
-          <span><li><a href="#top">Back to Top</a></li></span>
-          <span><li class="selected"><a href="#section-0">Industries</a></li></span>
+          <span><li class="backtotop"><a href="#top"><img src="assets/imgs/up.png" />Back to Top</a></li></span>
+          <span><li class="hierarchy selected"><a href="#section-0">INDUSTRIES</a></li></span>
           <span><li><a href="#section-1">Ammunition Tooling &<br /> Firearms Manufacturing</a></li></span>
           <span><li><a href="#section-2">Can Tooling</a></li></span>
           <span><li><a href="#section-3">Fastener Tooling</a></li></span>
@@ -241,7 +241,6 @@
           <span><li><a href="#section-11">Specialty Tooling</a></li></span>
           <span><li><a href="#section-12">Stamping/Lamination Tooling</a></li></span>
           <span><li><a href="#section-13">Synthetic Diamond<br /> Manufacturing</a></li></span>
-          <!--<span><li id="nav13">Wire Drawing Tooling</li></span>-->
         </ul>
       </div>
     </div>
