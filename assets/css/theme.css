@@ -472,6 +472,21 @@ h4{
 	margin: 0 auto;
 }
 
+/* Conversion Calculator styling */
+.conversion-list{
+	padding: 0px;
+}
+
+.conversion-list li{
+	list-style-type: none;
+}
+
+.conversion-list .heading{
+	font-size: 20px;
+	font-weight: 600;
+}
+
+
 /* Interior Styling */
 .interior-nav{
 		height: 755px;
