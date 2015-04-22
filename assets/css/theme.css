@@ -132,6 +132,16 @@ h4{
 	width: 55px;
 }
 
+.technical-links a{
+	font-weight: 600;
+	font-size: 16px;
+}
+
+.subtext{
+	font-style: italic;
+	font-size: 13px;
+}
+
 img.pdf-icon{
 	width: 55px;
 }
