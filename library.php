@@ -32,6 +32,11 @@
           <div class="row">
             <div class="col-xs-12 col-sm-9">
               <h3>Sales Literature</h3>
+
+              <p><a href="assets/pdf/GCBrochure.pdf">Capabilities Brochure</a></p>
+              <p><a href="assets/pdf/GCGradeSpecs.pdf">Grade Specification Chart</a></p>
+              <p><a href="assets/pdf/GCMSDS.pdf">Material Safety Data Sheets</a></p>
+
             </div>
             <div class="col-xs-12 col-sm-3">
               <!-- Section side content goes here -->
@@ -46,6 +51,17 @@
           <div class="row">
             <div class="col-xs-12 col-sm-9">
               <h3>Application Data Sheets</h3>
+              <p><a href="assets/pdf/GCAmmoGrades.pdf">Ammunition Tooling Grades</a></p>
+              <p><a href="assets/pdf/GCConcreteWear.pdf">Concrete Industry Wear Parts</a></p>
+              <p><a href="assets/pdf/GCFlowControl.pdf">Erosion/Corrosion Resistance in Flow Control</a></p>
+              <p><a href="assets/pdf/GCGenFixx.pdf">GenFixx:&#8482; A Better Way to Join Tungsten Carbide & Steel</a></p>
+              <p><a href="assets/pdf/GCMetalProcessing.pdf">Metal Processing Slitters</a></p>
+              <p><a href="assets/pdf/GCPCDSubstrates.pdf">PCD Substrates and Disks</a></p>
+              <p><a href="assets/pdf/GCPowderMetalTooling.pdf">Powder Metal Tooling (wire EDM)0</a></p>
+              <p><a href="assets/pdf/GCStamping.pdf">Stamping - 4x Tool Life w/ Superior Tooling</a></p>
+              <p><a href="assets/pdf/GCRooftile.pdf">Rooftile Tooling</a></p>
+              <p><a href="assets/pdf/GCSinterHIP.pdf">Sinter-HIP Advantages</a></p>
+              <p><a href="assets/pdf/GCSteelStamping.pdf">Stamping 1006 Cold Rolled Steel</a></p>
             </div>
             <div class="col-xs-12 col-sm-3">
               <!-- Section side content goes here -->

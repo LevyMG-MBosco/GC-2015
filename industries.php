@@ -36,7 +36,11 @@
               <h1>Ammunition Tooling & Firearms Manufacturing</h1><p>At General Carbide, we offer a wide range of finished tooling for use in ammunition & firearms production. Such Sinter-HIPed tooling includes:</p><ul><li>Draw Dies</li><li>Profile Dies</li><li>Punches</li><li>Forged Tooling</li><li>AP Cores</li></ul><p>In addition to our standard grades, we supply premium grades to provide high toughness, good wear and corrosion resistance, and anti-galling. They include:</p><ul><li>GC-813CT</li><li>GC-411CT</li><li>GC-613CT</li><li>GC-618CT</li><li>GC-320T</li></ul><p>As holder of a Type 10 Federal Firearms License, we’re able to serve manufacturers of firearms, ammunition and ammunition components.</p>
             </div>
             <div class="col-xs-12 col-sm-3">
-              <!-- Section side content goes here -->
+              <div class="pdf-wrap">
+                <p>Ammunition Tooling Grades</p>
+                <a href="assets/pdf/GCAmmoGrades.pdf" target="_blank"><img class="pdf-icon" src="assets/imgs/pdf.png" /></a>
+                <a href="assets/pdf/GCAmmoGrades.pdf" target="_blank"><p class="pdf-filename">GCAmmoGrades.pdf <span>(1.3MB)</span></p></a>
+              </div>
             </div>
           </div>
         </div>
@@ -96,7 +100,16 @@
               <h1>Oil & Gas Components</h1><p>At General Carbide, we produce finished tooling for extrusion dies used to manufacture assemblies and components for flow control operations and Measurement While Drilling (MWD) apparatus, including:</p><ul>  <li>Cages</li>  <li>Chokes</li>  <li>Fixed Cutter Bit Substrates</li>  <li>Mud Nozzles</li>  <li>Plugs</li>  <li>Seats</li>  <li>Valve Assemblies</li>  <li>Valves</li>  <li>Wear Sleeves and Stabilizer Rings</li></ul><p>The 50+ grades of material we manufacture can satisfy oil/gas wear applications that experience:</p><ul>  <li>Erosive wear from drilling mud</li>  <li>Abrasice wear from rock formations</li>  <li>Chemical/mechanical corrosive wear</li>  <li>Impact</li></ul><p>Our experienced applications engineering team can help you select the ideal properties for your particular application, including:</p><ul>  <li>Grade</li>  <li>Grain Size</li>  <li>Hardness</li>  <li>Binder Type</li></ul><p>With shaping capabilities that set the industry standard, we can maintain a stock of preforms for your exclusive use, or we can supply finish-ground components that are ground in-house.</p>
             </div>
             <div class="col-xs-12 col-sm-3">
-              <!-- Section side content goes here -->
+              <div class="pdf-wrap">
+                <p>Erosion/Corrosion Resistance in Flow Control</p>
+                <a href="assets/pdf/GCFlowControl.pdf" target="_blank"><img class="pdf-icon" src="assets/imgs/pdf.png" /></a>
+                <a href="assets/pdf/GCFlowControl.pdf" target="_blank"><p class="pdf-filename">GCFlowControl.pdf <span>(1.8MB)</span></p></a>
+              </div>
+              <div class="pdf-wrap">
+                <p>GenFixx&#153;: Joining Tungsten Carbide & Steel</p>
+                <a href="assets/pdf/GCGenFixx.pdf" target="_blank"><img class="pdf-icon" src="assets/imgs/pdf.png" /></a>
+                <a href="assets/pdf/GCGenFixx.pdf" target="_blank"><p class="pdf-filename">GCGenFixx.pdf <span>(541KB)</span></p></a>
+              </div>
             </div>
           </div>
         </div>
@@ -111,7 +124,11 @@
               <h1>PM Compaction Tooling</h1><p>As a major supplier of semi-finished tooling to the powder metals industry, our grades are Sinter-HIPed and feature high wear resistance and high fracture toughness. Additionally, our Wire Electrical Discharge Machining (EDM) grades are formulated to withstand wire and ram EDM, and are guaranteed not to crack.</p><p>Besides supplying standard C9-C14 grades, we offer a premium selection that includes:</p><ul>  <li>GC-813CT</li>  <li>GC-411CT</li>  <li>GC-612CT</li>  <li>GC-618T</li></ul><p>These grades offer enhanced performance due to their tungsten carbide crystalline structure and contain additives that increase their toughness, corrosion resistance and anti-galling characteristics.</p>
             </div>
             <div class="col-xs-12 col-sm-3">
-              <!-- Section side content goes here -->
+              <div class="pdf-wrap">
+                <p>Powder Metal Tooling (Wire EDM)</p>
+                <a href="assets/pdf/GCPowderMetalTooling.pdf" target="_blank"><img class="pdf-icon" src="assets/imgs/pdf.png" /></a>
+                <a href="assets/pdf/GCPowderMetalTooling.pdf" target="_blank"><p class="pdf-filename">GCPowderMetalTooling.pdf <span>(1.8MB)</span></p></a>
+              </div>
             </div>
           </div>
         </div>
@@ -126,7 +143,11 @@
               <h1>Rooftile Tooling</h1><p>General Carbide is a global supplier of semi-finished concrete rooftile tooling components. We offer a wide selection of Sinter-HIPed grades for:</p><ul>  <li>Rollers</li>  <li>Slippers</li>  <li>Water Channels</li>  <li>Wear Slips</li></ul><p>We also provide many grades that are corrosion-resistant and have anti-galling characteristics for longer tooling life. </p><p>Besides providing new tooling, we’re able to refurbish your spent components with cost-effective repairs and re-grinds.</p>
             </div>
             <div class="col-xs-12 col-sm-3">
-              <!-- Section side content goes here -->
+              <div class="pdf-wrap">
+                <p>Rooftile Tooling</p>
+                <a href="assets/pdf/GCRooftile.pdf" target="_blank"><img class="pdf-icon" src="assets/imgs/pdf.png" /></a>
+                <a href="assets/pdf/GCRooftile.pdf" target="_blank"><p class="pdf-filename">GCRooftile.pdf <span>(1.1MB)</span></p></a>
+              </div>
             </div>
           </div>
         </div>
@@ -171,7 +192,11 @@
               <h1>Severe Service Tooling</h1><p>Our wide range of finished tungsten carbide wear parts, components and assemblies offer superior toughness and erosion/corrosion resistance.</p><p>General Carbide severe service tooling is ideal for applications in:</p><ul>  <li>Oil & Gas Exploration and Production</li>  <li>Petrochemical Manufacturing</li>  <li>Power Generation</li>  <li>Pulp & Paper Production</li></ul><p>Using engineering know-how based on vast experience, we make sure your wear parts, components and assemblies can withstand corrosion, erosion, abrasion or impact.<p>
             </div>
             <div class="col-xs-12 col-sm-3">
-              <!-- Section side content goes here -->
+              <div class="pdf-wrap">
+                <p>Erosion/Corrosion Resistance in Flow Control</p>
+                <a href="assets/pdf/GCFlowControl.pdf" target="_blank"><img class="pdf-icon" src="assets/imgs/pdf.png" /></a>
+                <a href="assets/pdf/GCFlowControl.pdf" target="_blank"><p class="pdf-filename">GCFlowControl.pdf <span>(1.8MB)</span></p></a>
+              </div>
             </div>
           </div>
         </div>
@@ -201,7 +226,11 @@
               <h1>Stamping/Lamination Tooling</h1><p>As a manufacturer of semi-finished tooling for tungsten carbide progressive die components. EDM blanks and more, we offer a variety of grades for stamping applications. Many of our grades are corrosion-resistant to help prevent damage to your die components during fabrication, as well as leaching from lubricants.</p><p>Whether you’re stamping electrical connectors, computer components, motor laminations, medical products, or anything else, we have an ideal grade for your application.</p><p>Our punch and die components are used by customers worldwide. We also supply custom-shaped preform blanks and blocks for Wire Electrical Discharge Machining (EDM). Our EDM blanks feature superior metallurgical integrity and deliver outstanding performanceIn a multitude of applications. All of our blanks are stress-relieved and Sinter-HIPed using proprietary thermal cycles.</p><p>The combination of EDM and Sinter-HIP virtually eliminates the risk of cracking, distortion or pre-mature failure during EDM. The resulting benefits are a smoother flow on your production line and an improved record for on-time deliveries.</p>
             </div>
             <div class="col-xs-12 col-sm-3">
-              <!-- Section side content goes here -->
+              <div class="pdf-wrap">
+                <p>Stamping Tooling</p>
+                <a href="assets/pdf/GCStamping.pdf" target="_blank"><img class="pdf-icon" src="assets/imgs/pdf.png" /></a>
+                <a href="assets/pdf/GCStamping.pdf" target="_blank"><p class="pdf-filename">GCStamping.pdf <span>(1.6MB)</span></p></a>
+              </div>
             </div>
           </div>
         </div>
@@ -216,7 +245,11 @@
               <h1>Synthetic Diamond Manufacturing</h1><p>General Carbide sets the standard for producing semi-finished diamond compaction tooling. Our carbide grades feature long life cycles due to the double hot isostatic pressing (HIP) process the material undergoes. In fact, we sinter all of our products in a Sinter-HIP Furnace where the simultaneous application of heat and pressure fully consolidate the material’s microstructure.</p><p>After leaving the furnace, our diamond compaction anvils undergo separate post-sintering treatment. They are then Sinter-HIPed again under higher pressure and at temperatures that almost reach the original sintering temperature. This process ensures that the material has no residual voids or flaws and can deliver a higher degree of performance than comparable materials.</p><h2>Outstanding Surfaces, Too</h2><p>We also supply carbide substrates and backup discs, pressing and sintering substrates with intricate surface configurations built into the press tooling. The substrates upon which the polycrystalline diamond (PCD) is sintered are proven products that can withstand extremely high compressive loading, as well as fatigue from the cyclical action of the press.</p><p>Our superior ultrasonic cleaning operation, which includes a proprietary cleaning solution, provides a surface finish condition receptive to the PCD table without pre-cleaning and makes brazing easier. </p>
             </div>
             <div class="col-xs-12 col-sm-3">
-              <!-- Section side content goes here -->
+              <div class="pdf-wrap">
+                <p>PCD Substrates and Disks</p>
+                <a href="assets/pdf/GCPCDSubstrates.pdf" target="_blank"><img class="pdf-icon" src="assets/imgs/pdf.png" /></a>
+                <a href="assets/pdf/GCPCDSubstrates.pdf" target="_blank"><p class="pdf-filename">GCPCDSubstrates.pdf <span>(98KB)</span></p></a>
+              </div>
             </div>
           </div>
         </div>

@@ -132,6 +132,11 @@ h4{
 	width: 55px;
 }
 
+img.pdf-icon{
+	width: 55px;
+}
+
+
 .pdf-filename{
 	font-size: 11px;
 }
@@ -486,6 +491,19 @@ h4{
 	font-weight: 600;
 }
 
+/* Hardness Table Styling */
+.hardness-scale{
+	width: 100%;
+}
+
+.hardness-scale th{
+	border-bottom: 1px solid #444444;
+	text-align: left;
+}
+
+.hardness-scale td{
+	border-bottom: 1px solid #cccccc;
+}
 
 /* Interior Styling */
 .interior-nav{
