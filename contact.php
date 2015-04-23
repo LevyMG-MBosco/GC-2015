@@ -25,7 +25,19 @@
 
                               <div class="form-group">
                                   <div class="col-md-offset-2 col-md-8">
-                                      <input id="phone" name="phone" type="text" placeholder="Company" class="form-control">
+                                      <input id="company" name="Company" type="text" placeholder="Company" class="form-control">
+                                  </div>
+                              </div>
+
+                              <div class="form-group">
+                                  <div class="col-md-offset-2 col-md-8">
+                                      <input id="phone" name="phone" type="text" placeholder="Phone" class="form-control">
+                                  </div>
+                              </div>
+
+                              <div class="form-group">
+                                  <div class="col-md-offset-2 col-md-8">
+                                      <input id="state" name="state" type="text" placeholder="State" class="form-control">
                                   </div>
                               </div>
 

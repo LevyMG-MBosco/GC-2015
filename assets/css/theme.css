@@ -12,6 +12,7 @@ h2{
 h3{
 	font-size: 27px;
 	color: #e21836;
+	margin: 0px 0px 20px;
 }
 h4{
 	font-size: 20px;
@@ -81,6 +82,10 @@ h4{
 	width: 315px;
 }
 
+.mobile-header .row{
+	border-bottom: solid 5px #e21836;
+}
+
 .searchbar{
 	position: relative;
 }
@@ -115,22 +120,35 @@ h4{
 	margin-top: 35px;
 }
 
+/* PDF display styling */
+
 .pdf-wrap{
+	background-color: #eee;
+	padding: 5px;
 	text-align: center;
-	margin-top: 45px;
 }
 
-.pdf-wrap p{
-	font-weight: 600;
-}
-
-.pdf-wrap span{
-	font-weight: 400;
+.pdf-wrap table{
+	margin: 0 auto;
 }
 
 .interior-content img.pdf-icon{
-	width: 55px;
+	width: 40px;
 }
+img.pdf-icon{
+	width: 40px;
+}
+
+.pdf-filename{
+	text-align: left;
+	font-weight: 600;
+	font-size: 10px;
+	padding: 0px 5px;
+	margin: 0px;
+}
+
+
+
 
 .technical-links a{
 	font-weight: 600;
@@ -140,15 +158,6 @@ h4{
 .subtext{
 	font-style: italic;
 	font-size: 13px;
-}
-
-img.pdf-icon{
-	width: 55px;
-}
-
-
-.pdf-filename{
-	font-size: 11px;
 }
 
 .selector-button{
@@ -204,6 +213,8 @@ img.pdf-icon{
 
 .overlay-opacity p{
 	color: #fff;
+	margin-top: 9%;
+	padding: 20px;
 }
 
 /* Landing page overlay */
@@ -228,6 +239,7 @@ img.pdf-icon{
 	top: 0;
 	background-color: rgba(0,0,0,0.5);
 	display:none;
+	cursor: pointer;
 }
 
 
@@ -272,6 +284,12 @@ img.pdf-icon{
 	}
 }
 
+@media (max-width: 1199px){
+	.overlay-opacity{
+		display: block !important;
+		opacity: 1 !important;
+	}
+}
 
 @media (max-width: 991px){
 	.navigation li{
@@ -618,7 +636,7 @@ img.pdf-icon{
 }
 
 .section{
-	padding-bottom: 25px;
+	padding-bottom: 50px;
 }
 
 /* Footer styling */

@@ -29,19 +29,27 @@
           </div>
           <div class="row">
             <div class="col-xs-12">
-              <div class="news-section">
-                <h4>Gov. Corbett Tours General Carbide's Facilities</h4>
-                <p>In a visit to General Carbide's facilities on October 22, 2014, Gov. Tom Corbett met with Mona Pappafava-Ray, president and CEO, and 40 employees, to discuss the proposal of gubernatorial candidate Tom Wolf to raise Pennsylvania's state income tax by nearly 200 percent.</p>
-                <span class="readmore"><a href="">Read More »</a></span>
+              <div class="panel panel-default">
+                <div class="panel-heading">
+                  <h4>Gov. Corbett Tours General Carbide's Facilities</h4>
+                </div>
+                <div class="panel-body">
+                  <p>In a visit to General Carbide's facilities on October 22, 2014, Gov. Tom Corbett met with Mona Pappafava-Ray, president and CEO, and 40 employees, to discuss the proposal of gubernatorial candidate Tom Wolf to raise Pennsylvania's state income tax by nearly 200 percent.</p>
+                  <span class="readmore"><a href="">Read More »</a></span>
+                </div>
               </div>
             </div>
           </div>
           <div class="row">
             <div class="col-xs-12">
-              <div class="news-section">
-                <h4>Ice Bucket Challenge Leaves Top Management All Wet</h4>
-                <p>GCC became part of the "Ice Bucket Challenge" social media phenomenon by raising $1,000 to help find a cure for amyotrophic lateral sclerosis (ALS), better known as Lou Gehrig’s Disease.</p>
-                <span class="readmore"><a href="">Read More »</a></span>
+              <div class="panel panel-default">
+                <div class="panel-heading">
+                  <h4>Ice Bucket Challenge Leaves Top Management All Wet</h4>
+                </div>
+                <div class="panel-body">
+                  <p>GCC became part of the "Ice Bucket Challenge" social media phenomenon by raising $1,000 to help find a cure for amyotrophic lateral sclerosis (ALS), better known as Lou Gehrig’s Disease.</p>
+                  <span class="readmore"><a href="">Read More »</a></span>
+                </div>
               </div>
             </div>
           </div>
@@ -55,10 +63,14 @@
           </div>
           <div class="row">
             <div class="col-xs-12">
-              <div class="news-section">
-                <h4>General Carbide Corporation Receives ISO 9001:2008 Certification</h4>
-                <p>General Carbide Corporation, a manufacturer of more than 50 grades of tungsten carbide tooling for a variety of industrial wear, metal forming and stamping applications, has earned ISO certification. </p>
-                <span class="readmore"><a href="">Read More »</a></span>
+              <div class="panel panel-default">
+                <div class="panel-heading">
+                  <h4>General Carbide Corporation Receives ISO 9001:2008 Certification</h4>
+                </div>
+                <div class="panel-body">
+                  <p>General Carbide Corporation, a manufacturer of more than 50 grades of tungsten carbide tooling for a variety of industrial wear, metal forming and stamping applications, has earned ISO certification. </p>
+                  <span class="readmore"><a href="">Read More »</a></span>
+                </div>
               </div>
             </div>
           </div>
@@ -93,12 +105,16 @@
           </div>
           <div class="row">
             <div class="col-xs-12">
-              <div class="news-section">
-                <h4>Offshore Europe 2015</h4>
-                <h4>Oil & Gas Conference & Exhibition</h4>
-                <p>Sept. 8-11</p>
-                <p>Aberdeen | UK</p>
-                <span class="readmore"><a href="http://www.offshore-europe.co.uk" target="_blank">www.offshore-europe.co.uk</a></span>
+              <div class="panel panel-default">
+                <div class="panel-heading">
+                  <h4>Offshore Europe 2015</h4>
+                  <h4>Oil & Gas Conference & Exhibition</h4>
+                </div>
+                <div class="lanel-body">
+                  <p>Sept. 8-11</p>
+                  <p>Aberdeen | UK</p>
+                  <span class="readmore"><a href="http://www.offshore-europe.co.uk" target="_blank">www.offshore-europe.co.uk</a></span>
+                </div>
               </div>
             </div>
           </div>

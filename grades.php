@@ -14,8 +14,10 @@
             </div>
           </div>
           <div class="row">
-            <div class="cols-xs-12 col-sm-9">
+            <div class="col-xs-12">
               <h1>Grades</h1>
+            </div>
+            <div class="col-xs-12 col-sm-9">
               <h3>Making the Grades</h3>
               <p>We produce more than 50 carbide grades from cobalt, nickel, tantalum and tungsten. They come in a wide range of binder concentrations and particles sizes. Our tungsten carbide grades use cobalt binders ranging in concentrations up to 30%, and offer nominal particle sizes from 0.55 microns to 10 microns. The superfine carbides are ideal for applications requiring sharp edges, and our broad range of tungsten carbide with tantalum reduce galling in your metal-forming operations.</p>
               <p>As a major producer of nickel carbides for environments where corrosion, oxidation and wear push your tooling to the limit, we maintain the purity of our carbides through a dedicated nickel room, and through nickel production processes that eliminate the potential for contamination.</p>
@@ -23,14 +25,28 @@
             </div>
             <div class="col-xs-12 col-sm-3">
               <div class="pdf-wrap">
-                <p>Grade Specifications Chart</p>
-                <a href="assets/pdf/GCGradeSpecs.pdf" target="_blank"><img class="pdf-icon" src="assets/imgs/pdf.png" /></a>
-                <a href="assets/pdf/GCGradeSpecs.pdf" target="_blank"><p class="pdf-filename">GCGradeSpecs.pdf <span>(102KB)</span></p></a>
+                <a href="assets/pdf/GCGradeSpecs.pdf" target="_blank">
+                  <table><tbody><tr>
+                    <td><img class="pdf-icon" src="assets/imgs/pdf.png" /></td>
+                    <td valign="middle"><p class="pdf-filename">Grade Specifications Chart</p></td>
+                  </tr></tbody></table>
+                </a>
               </div>
               <div class="pdf-wrap">
-                <p>Designer's Guide to Tungsten Carbide</p>
-                <a href="assets/pdf/GCDesignerGuide.pdf" target="_blank"><img class="pdf-icon" src="assets/imgs/pdf.png" /></a>
-                <a href="assets/pdf/GCDesignerGuide.pdf" target="_blank"><p class="pdf-filename">GCDesignerGuide.pdf <span>(3.4MB)</span></p></a>
+                <a href="assets/pdf/GCDesignerGuide.pdf" target="_blank">
+                  <table><tbody><tr>
+                    <td><img class="pdf-icon" src="assets/imgs/pdf.png" /></td>
+                    <td valign="middle"><p class="pdf-filename">Designer's Guide to Tungsten Carbide</p></td>
+                  </tr></tbody></table>
+                </a>
+              </div>
+              <div class="pdf-wrap">
+                <a href="assets/pdf/GCSinterHIP.pdf" target="_blank">
+                  <table><tbody><tr>
+                    <td><img class="pdf-icon" src="assets/imgs/pdf.png" /></td>
+                    <td valign="middle"><p class="pdf-filename">Sinter-HIP Advantages</p></td>
+                  </tr></tbody></table>
+                </a>
               </div>
             </div>
           </div>

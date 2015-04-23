@@ -24,40 +24,6 @@
 								</ul><br />
 
 								<h4>Find out how we can solve your toughest wear problems.</h4>
-								<form>
-									<table>
-										<tr>
-											<td>
-												<label>Name</label>
-											</td>
-											<td>
-												<input type="text" />
-											</td>
-										</tr>
-										<tr>
-											<td>
-												<label>Email</label>
-											</td>
-											<td>
-												<input type="text" />
-											</td>
-										</tr>
-										<tr>
-											<td>
-												<label>Company</label>
-											</td>
-											<td>
-												<input type="text" />
-											</td>
-										</tr>
-										<tr>
-											<td></td>
-											<td>
-												<input type="submit" />
-											</td>
-										</tr>
-									</table>
-								</form>
 							</div>
 
 							<div class="col-sm-12 col-md-3 social-wrap">
@@ -104,40 +70,6 @@
 
 						<div class="footer-nav col-sm-6">
 							<h4 style="margin-top: 25px;">Find out how we can solve your toughest wear problems.</h4>
-							<form>
-								<table>
-									<tr>
-										<td>
-											<label>Name</label>
-										</td>
-										<td>
-											<input type="text" />
-										</td>
-									</tr>
-									<tr>
-										<td>
-											<label>Email</label>
-										</td>
-										<td>
-											<input type="text" />
-										</td>
-									</tr>
-									<tr>
-										<td>
-											<label>Company</label>
-										</td>
-										<td>
-											<input type="text" />
-										</td>
-									</tr>
-									<tr>
-										<td></td>
-										<td>
-											<input type="submit" />
-										</td>
-									</tr>
-								</table>
-							</form>
 						</div>
 					</div>
 				</div>
@@ -173,40 +105,6 @@
 					<div class="row">
 						<div class="footer-nav text-center col-xs-12">
 							<h4>Find out how we can solve your toughest wear problems.</h4>
-							<form>
-								<table style="margin: 0 auto;">
-									<tr>
-										<td>
-											<label>Name</label>
-										</td>
-										<td>
-											<input type="text" />
-										</td>
-									</tr>
-									<tr>
-										<td>
-											<label>Email</label>
-										</td>
-										<td>
-											<input type="text" />
-										</td>
-									</tr>
-									<tr>
-										<td>
-											<label>Company</label>
-										</td>
-										<td>
-											<input type="text" />
-										</td>
-									</tr>
-									<tr>
-										<td></td>
-										<td>
-											<input style="margin-left: -83px;" type="submit" />
-										</td>
-									</tr>
-								</table>
-							</form>
 							<div class="social-wrap">
 								<img src="assets/imgs/facebook.png" />
 								<img src="assets/imgs/linkedin.png" />

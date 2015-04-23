@@ -14,9 +14,11 @@
             </div>
           </div>
           <div class="row">
-            <div class="cols-xs-12 col-sm-9">
+            <div class="col-xs-12">
               <h1>Quality</h1>
-              <h2>ISO-Certified to Meet Your Quality Requirements</h2>
+            </div>
+            <div class="col-xs-12 col-sm-9">
+              <h3>ISO-Certified to Meet Your Quality Requirements</h3>
               <p>At General Carbide, we’ve invested in the quality systems and process needed to become ISO-certified as of June 2014. That’s because we’re committed to meeting the highest standards in everything we do. We achieve a superior level of quality by using:</p>
               <ul>
                 <li>CAD/CAM systems that add speed and accuracy to the early stages of production</li>
@@ -47,11 +49,13 @@
             </div>
           </div>
           <div class="row">
-            <div class="cols-xs-12 col-sm-9">
+            <div class="col-xs-12">
               <h1>Sinter-HIP Advantages</h1>
-              <h2>What is Sinter-HIP?</h2>
+            </div>
+            <div class="col-xs-12 col-sm-9">
+              <h3>What is Sinter-HIP?</h3>
               <p>Sinter-HIP is a method of thermal consolidation. The simultaneous application of heat and pressure consolidates the carbide during sintering, which results in a dense product that contains little or no porosity.</p>
-              <h2>Hot Isostatic Pressing (HIP) Results in Superior Reliability</h2>
+              <h3>Hot Isostatic Pressing (HIP) Results in Superior Reliability</h3>
               <ul>
                 <li>Automotive</li>
                 <li>Aerospace</li>
@@ -69,14 +73,23 @@
               <p><a href="">The Theory Behind the Practice</a></p>
             </div>
             <div class="col-xs-12 col-sm-3">
-              <!-- Section side content goes here -->
+              <div class="pdf-wrap">
+                <a href="assets/pdf/GCSinterHIP.pdf" target="_blank">
+                  <table><tbody><tr>
+                    <td><img class="pdf-icon" src="assets/imgs/pdf.png" /></td>
+                    <td valign="middle"><p class="pdf-filename">Sinter-HIP Advantages</p></td>
+                  </tr></tbody></table>
+                </a>
+              </div>
             </div>
           </div>
         </div>
         <div class="section" id="section-2">
           <div class="row">
-            <div class="col-xs-12 col-sm-9">
+            <div class="col-xs-12">
               <h1>Quality Policy</h1>
+            </div>
+            <div class="col-xs-12 col-sm-9">
               <p>General Carbide Corporation is strongly committed to being a World Class Supplier of Tungsten Carbide Preforms and Finished Goods. We maintain an ISO 9001 compliant Quality Management System and promote a culture of continuous improvement for both the quality of our products and systems.</p>
               <h2>At General Carbide Corporation, <span class="red-text">“WE CAN!”</span></h2>
               <ul>

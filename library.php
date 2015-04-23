@@ -16,7 +16,7 @@
           <div class="row">
             <div class="col-xs-12 col-sm-9">
               <h1>Library</h1>
-              <h2>Your Best Source for Technical Information About Tungsten Carbide Tooling</h2>
+              <h3>Your Best Source for Technical Information About Tungsten Carbide Tooling</h3>
               <p>At General Carbide, we take pride in our technical expertise and have established this collection of valuable information to help you make the best decisions about tungsten carbide tooling for your particular application.</p>
             </div>
             <div class="col-xs-12 col-sm-3">

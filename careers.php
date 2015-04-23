@@ -68,9 +68,6 @@
       <div class="careers-sidebar">
         <img class="img-responsive" src="assets/imgs/quote3.jpg" />
       </div>
-      <div class="careers-sidebar">
-        <img class="img-responsive" src="assets/imgs/quote2.jpg" />
-      </div>
     </div>
   </div>
 </div>
