@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<?php $page = basename($_SERVER['PHP_SELF']); ?>
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -10,7 +11,11 @@
 
 <link rel="stylesheet" href="assets/css/bootstrap.css" />
 <link type="text/css" rel="stylesheet" href="assets/css/theme.css" />
+<link rel="stylesheet" href="assets/css/slippry.css" />
 <link type="text/css" rel="stylesheet" href="assets/css/mobilenav.css" />
+
+<script src="//code.jquery.com/jquery.min.js"></script>
+<script src="assets/js/slippry.js"></script>
 
 
 <!-- Typekit stuff, needs to be in the header -->
@@ -32,6 +37,8 @@
           <span class="icon-bar"></span>
          </a>
         <a class="navbar-brand" href="#">Menu</a>
+
+        <a class="mobile-backtotop">Back to Top<img src="assets/imgs/up.png"></a>
         </div>
 
         <div id="slidemenu">
@@ -42,13 +49,18 @@
           <button type="submit" class="btn btn-primary">Search</button>
         </form>
         <ul class="nav navbar-nav">
-         <li class="active"><a href="#">Home</a></li>
-         <li><a href="home.php">HOME</a></li>
-         <li><a href="industries.php">INDUSTRY</a></li>
-         <li><a href="grades.php">GRADES</a></li>
-         <li><a href="quality.php">QUALITY</a></li>
-         <li><a href="library.php">LIBRARY</a></li>
-         <li><a href="toolbox.php">TOOLBOX</a></li>
+         <li <?php if ($page == "about.php"){ echo "class='active'"; } ?>><a href="about.php">ABOUT</a></li>
+         <li <?php if ($page == "news.php"){ echo "class='active'"; } ?>><a href="news.php">NEWS & EVENTS</a></li>
+         <li <?php if ($page == "careers.php"){ echo "class='active'"; } ?>><a href="careers.php">CAREERS</a></li>
+         <li <?php if ($page == "contact.php"){ echo "class='active'"; } ?>><a href="contact.php">CONTACT</a></li>
+        </ul>
+        <ul class="nav navbar-nav">
+         <li <?php if ($page == "index.php"){ echo "class='active'"; } ?>><a href="index.php">HOME</a></li>
+         <li <?php if ($page == "industries.php"){ echo "class='active'"; } ?>><a href="industries.php">INDUSTRIES</a></li>
+         <li <?php if ($page == "grades.php"){ echo "class='active'"; } ?>><a href="grades.php">GRADES</a></li>
+         <li <?php if ($page == "quality.php"){ echo "class='active'"; } ?>><a href="quality.php">QUALITY</a></li>
+         <li <?php if ($page == "library.php"){ echo "class='active'"; } ?>><a href="library.php">LIBRARY</a></li>
+         <li <?php if ($page == "toolbox.php"){ echo "class='active'"; } ?>><a href="toolbox.php">TOOLBOX</a></li>
         </ul>
         </div>
 
@@ -68,10 +80,10 @@
             </div>
 
             <div class="row">
-                <div class="logowrap col-md-6 col-xs-12">
+                <div class="logowrap col-md-5 col-xs-12">
                   <img style="width: 500px;" class="img-responsive" src="assets/imgs/GCLogo.gif"/>
                 </div>
-                <div class="linkwrap col-xs-6">
+                <div class="linkwrap col-xs-7">
                   <div class="header-position-right">
                     <ul class="contact-navigation">
                         <li><a href="about.php">About</a></li> |
@@ -90,26 +102,22 @@
 
             <div class="row">
 
-              <div class="logowrap col-xs-4">
+              <div class="logowrap col-xs-6">
                 <img class="img-responsive" src="assets/imgs/GCLogo.gif"/>
               </div>
 
-              <div class="linkwrap col-xs-4">
-                <div class="header-position-right">
-                  <ul class="contact-navigation">
-                    <li><a href="about.php">About</a></li> |
-                    <li><a href="news.php">News & Events</a></li> |
-                    <li><a href="careers.php">Careers</a></li> |
-                    <li><a href="contact.php">Contact</a></li>
-                  </ul>
-                  <img class="selector-button img-responsive" src="assets/imgs/selector.jpg"/>
-                </div>
-              </div>
-
-              <div class="searchbar col-xs-4">
+              <div class="searchbar col-xs-6">
                   <div class="searchbar-position-right">
                     <input placeholder="Search">
                     <img src="assets/imgs/mag.png" />
+                  </div>
+                  <div class="header-position-right">
+                    <ul class="contact-navigation">
+                      <li><a href="about.php">About</a></li> |
+                      <li><a href="news.php">News & Events</a></li> |
+                      <li><a href="careers.php">Careers</a></li> |
+                      <li><a href="contact.php">Contact</a></li>
+                    </ul>
                   </div>
               </div>
             </div>

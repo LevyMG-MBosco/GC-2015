@@ -2,7 +2,7 @@
 <div class="interior-page-wrap container">
   <!--  -->
   <div class="row">
-    <div class="col-xs-9">
+    <div class="col-xs-12 col-md-9">
       <div class="interior-header-image">
           <img class="img-responsive" />
       </div>

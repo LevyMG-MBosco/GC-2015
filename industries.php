@@ -1,8 +1,32 @@
 <?php include_once('includes/header.php'); ?>
 <div class="interior-page-wrap container">
-  <!--  -->
+  <!-- Begin mobile subnav -->
+  <div class="interior-mobile-nav visible-xs-* hidden-sm hidden-md hidden-lg">
+    <ul id="nav2" class="nav">
+      <div class="row">
+        <div class="col-xs-6">
+          <span><li><a href="#section-1">Ammunition Tooling &<br /> Firearms Manufacturing</a></li></span>
+          <span><li><a href="#section-2">Can Tooling</a></li></span>
+          <span><li><a href="#section-3">Fastener Tooling</a></li></span>
+          <span><li><a href="#section-4">General Metalforming</a></li></span>
+          <span><li><a href="#section-5">Oil & Gas Components</a></li></span>
+          <span><li><a href="#section-6">PM/Compaction Tooling</a></li></span>
+        </div>
+        <div class="col-xs-6">
+          <span><li><a href="#section-7">Rooftile Tooling</a></li></span>
+          <span><li><a href="#section-8">Rotary Cutting Dies</a></li></span>
+          <span><li><a href="#section-9">Rotary Tooling</a></li></span>
+          <span><li><a href="#section-10">Severe Service Tooling</a></li></span>
+          <span><li><a href="#section-11">Specialty Tooling</a></li></span>
+          <span><li><a href="#section-12">Stamping/Lamination Tooling</a></li></span>
+          <span><li><a href="#section-13">Synthetic Diamond<br /> Manufacturing</a></li></span>
+        </div>
+      </div>
+    </ul>
+  </div>
+  <!-- End mobile subnav -->
   <div class="row">
-    <div class="col-xs-9">
+    <div class="col-xs-12 col-sm-9">
       <div class="interior-header-image">
           <img class="img-responsive" />
       </div>
@@ -329,7 +353,7 @@
     </div>
     <div class="col-xs-2">
       <div id="nav-anchor"></div>
-      <div class="interior-nav">
+      <div class="interior-nav hidden-xs">
         <ul id="nav" class="nav">
           <span><li class="backtotop"><a href="#top"><img src="assets/imgs/up.png" />Back to Top</a></li></span>
           <span><li class="hierarchy selected"><a href="#section-0">INDUSTRIES</a></li></span>

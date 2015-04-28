@@ -62,19 +62,31 @@ $(document).ready(function () {
 
     //Drive the interior page navigation
     $('#nav').onePageNav({currentClass: "selected"});
+    $('#nav2').onePageNav({currentClass: "mobile-selected"});
 
     try{
       $(window).scroll(function(){
-      var window_top = $(window).scrollTop() + 12; // the "12" should equal the margin-top value for nav.stick
-      var div_top = $('#nav-anchor').offset().top;
-      if (window_top > div_top) {
-          $('#nav').addClass('stick');
-      } else {
-          $('#nav').removeClass('stick');
-      }
+        var window_top = $(window).scrollTop() + 12; // the "12" should equal the margin-top value for nav.stick
+        var div_top = $('#nav-anchor').offset().top;
+        if (window_top > div_top) {
+            $('#nav').addClass('stick');
+            $('#nav2').addClass('stick');
+        } else {
+            $('#nav').removeClass('stick');
+            $('#nav2').removeClass('stick');
+        }
+        if ($(this).scrollTop()) {
+          $('.mobile-backtotop:hidden').stop(true, true).fadeIn();
+        } else {
+          $('.mobile-backtotop').stop(true, true).fadeOut();
+        }
       });
     }catch(e){/*lol*/}
 
+    //Drives the mobile back-to-top button's smoothscroll
+    $(".mobile-backtotop").click(function(){
+      $('html, body').animate({scrollTop: 0}, 750, 'swing');
+    });
 
     //Drives the landing page's overlay fades
     $('.img-overlaid').mouseenter(function(){

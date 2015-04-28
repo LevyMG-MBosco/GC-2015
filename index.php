@@ -1,18 +1,40 @@
 <?php include_once('includes/header.php'); ?>
-
-<div class="blue-background">
+<div id="nav-anchor"></div>
+<div class="grey-background">
     <div id="hero" class="container">
         <div class="row">
-            <!-- Possible slider goes here, for now an img -->
-            <div class="col-sm-12 col-lg-8 hero-leftside">
-                <img src="assets/imgs/GCHero1.jpg" class="visible-lg-* hidden-md hidden-sm hidden-xs img-responsive" />
-                <img src="assets/imgs/GCHeroCompact.jpg" class="hidden-lg visible-xs-* img-responsive" />
-            </div>
-            <div class="col-sm-12 col-lg-4 hero-rightside">
-                <h1><span class="red-text">RE</span><span class="thin-text">DEFINING</span><br /> POSSIBLE</h1>
-                <p>Every day, General Carbide’s engineering and production teams use their expertise to provide customers with carbide tooling, assemblies and components that are able to withstand the harshest environments.</p>
-
-            </div>
+            <section class="news">
+              <section id="shop-demo">
+                <article title="Oil & Gas">
+                  <div class="image-content">
+                    <img src="assets/imgs/Slider1.jpg" alt="demo1_2" class="product-image">
+                  </div>
+                  <div class="text-content">
+                    <h1><span class="thin-text">REDEFINING</span><br /> POSSIBLE</h1>
+                    <p>Every day, General Carbide’s engineering and production teams use their expertise to provide customers with carbide tooling, assemblies and components that are able to withstand the harshest environments.</p>
+                  </div>
+                </article>
+                <article title="Oil & Gas">
+                  <div class="image-content">
+                    <img src="assets/imgs/Slider2.jpg" alt="demo1_2" class="product-image">
+                  </div>
+                  <div class="text-content">
+                    <h1><span class="thin-text">REDEFINING</span><br /> POSSIBLE</h1>
+                    <p>Every day, General Carbide’s engineering and production teams use their expertise to provide customers with carbide tooling, assemblies and components that are able to withstand the harshest environments.</p>
+                  </div>
+                </article>
+                <article title="Oil & Gas">
+                  <div class="image-content">
+                    <img src="assets/imgs/Slider3.jpg" alt="demo1_2" class="product-image">
+                  </div>
+                  <div class="text-content">
+                    <h1><span class="thin-text">REDEFINING</span><br /> POSSIBLE</h1>
+                    <p>Every day, General Carbide’s engineering and production teams use their expertise to provide customers with carbide tooling, assemblies and components that are able to withstand the harshest environments.</p>
+                  </div>
+                </article>
+              </section>
+              <h2 class="product-name"></h2>
+            </section>
         </div>
     </div>
 </div>
@@ -24,34 +46,40 @@
     </div>
     <div class="row">
         <div class="col-sm-4">
-          <h2 class="overlay-header">INDUSTRIES</h2>
-          <div class="overlay">
-            <img class="img-overlaid img-responsive" src="assets/imgs/sub1.jpg" />
+          <a href="industries.php">
+            <h2 class="overlay-header">INDUSTRIES</h2>
+            <div class="overlay">
+              <img class="img-overlaid img-responsive" src="assets/imgs/sub1.jpg" />
 
-            <div class="overlay-opacity">
-              <p>Our tungsten carbide tooling is ideal for industrial wear and metalforming applications, including ammunition, concrete wear parts, and rotary cutting dies.</p>
-            </div>
+              <div class="overlay-opacity">
+                <p>Our tungsten carbide tooling is ideal for industrial wear and metalforming applications, including ammunition, concrete wear parts, and rotary cutting dies.</p>
+              </div>
+            </a>
           </div>
         </div>
         <div class="col-sm-4">
-          <h2 class="overlay-header">GRADES</h2>
-          <div class="overlay">
-            <img class="img-overlaid img-responsive" src="assets/imgs/sub2.jpg" />
+          <a href="grades.php">
+            <h2 class="overlay-header">GRADES</h2>
+            <div class="overlay">
+              <img class="img-overlaid img-responsive" src="assets/imgs/sub2.jpg" />
 
-            <div class="overlay-opacity">
-              <p>We produce more than 50 carbide grades in a wide range of binder concentrations and particle sizes, with the tightest overall material specifications.</p>
+              <div class="overlay-opacity">
+                <p>We produce more than 50 carbide grades in a wide range of binder concentrations and particle sizes, with the tightest overall material specifications.</p>
+              </div>
             </div>
-          </div>
+          </a>
         </div>
         <div class="col-sm-4">
-          <h2 class="overlay-header">QUALITY</h2>
-          <div class="overlay">
-            <img class="img-overlaid img-responsive" src="assets/imgs/sub3.jpg" />
+          <a href="quality.php">
+            <h2 class="overlay-header">QUALITY</h2>
+            <div class="overlay">
+              <img class="img-overlaid img-responsive" src="assets/imgs/sub3.jpg" />
 
-            <div class="overlay-opacity">
-              <p>We’re ISO-Certified to meet your quality requirements and committed to meeting the highest standards in everything we do.</p>
+              <div class="overlay-opacity">
+                <p>We’re ISO-Certified to meet your quality requirements and committed to meeting the highest standards in everything we do.</p>
+              </div>
             </div>
-          </div>
+          </a>
         </div>
     </div>
 </div>
@@ -70,7 +98,7 @@
 
 <div id="white_content2" class="container">
     <div class="row">
-        <div class="col-sm-6">
+        <div class="col-xs-6">
             <div class="row">
                 <div class="col-sm-4">
                     <img class="img-responsive" src="assets/imgs/parts.jpg" />
@@ -83,7 +111,7 @@
             </div>
         </div>
 
-        <div class="col-sm-6">
+        <div class="col-xs-6">
             <div class="row">
                 <div class="col-sm-4">
                     <img class="img-responsive" src="assets/imgs/Download_Our_App.png" />
@@ -97,5 +125,28 @@
         </div>
     </div>
 </div>
+<script>
+  $(document).ready(function(){
+      $('.news').slippry({
+        // general elements & wrapper
+        slippryWrapper: '<div class="sy-box news-slider" />', // wrapper to wrap everything, including pager
+        elements: 'article', // elments cointaining slide content
 
+        // options
+        adaptiveHeight: false, // height of the sliders adapts to current
+        captions: false,
+
+        // pager
+        pager: false,
+
+        // transitions
+        transition: 'horizontal', // fade, horizontal, kenburns, false
+        speed: 1200,
+        pause: 8000,
+
+        // slideshow
+        autoDirection: 'prev'
+      });
+  })
+</script>
 <?php include_once('includes/footer.php'); ?>

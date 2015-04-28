@@ -2,7 +2,7 @@
 <div class="interior-page-wrap container">
   <!--  -->
   <div class="row">
-    <div class="col-xs-9">
+    <div class="col-xs-12 col-md-9">
       <div class="interior-header-image">
           <img class="img-responsive" />
       </div>
@@ -21,10 +21,10 @@
               <h3>A Record of Excellence in Tungsten Carbide Tooling</h3>
               <p>At General Carbide, we manufacture more than 50 grades of tungsten carbide tooling for a wide range of industrial wear and metal forming applications. In addition to producing metallurgical powders, we shape, sinter and finish-grind tungsten carbide. We employ more than 200 people, including 100 highly-skilled professionals in our production operations, enabling us to sell our products throughout the United States, Canada, Mexico, Europe and Asia. The company was established more than 45 years ago in Greensburg, Pennsylvania, near Pittsburgh, and has annual sales of more than $40 million. As a woman-owned business, General Carbide has achieved certification from the Women’s Business Enterprise National Council (WBENC)</p>
               <div class="row">
-                <div class="col-xs-12 col-sm-6">
+                <div class="col-xs-6">
                   <a href="assets/pdf/PremoAwardSlides.pdf" target="_blank"><img src="assets/imgs/Premo.jpg" /></a>
                 </div>
-                <div class="col-xs-12 col-sm-6">
+                <div class="col-xs-6">
                   <a href="assets/pdf/GCVeterans.pdf" target="_blank"><img src="assets/imgs/VeteransPlaceholder.png" /></a>
                 </div>
               </div>
@@ -42,7 +42,7 @@
                 <a href="assets/pdf/GCISOCert.pdf" target="_blank"><img style="width: 100px;" src="assets/imgs/ISO-Square.png" /></a>
               </div>
               <div class="pdf-wrap">
-                <a href="assets/pdf/WBENCCertificate.pdf" target="_blank"><img style="width: 165px; margin-top: 25px;" src="assets/imgs/WBENC.png" /></a>
+                <a href="assets/pdf/WBENCCertificate.pdf" target="_blank"><img style="margin-top: 5px;" src="assets/imgs/WBENC.png" /></a>
               </div>
               <!-- Section side content goes here -->
             </div>

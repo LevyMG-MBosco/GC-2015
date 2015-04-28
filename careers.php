@@ -2,7 +2,7 @@
 <div class="interior-page-wrap container">
   <!--  -->
   <div class="row">
-    <div class="col-xs-12 col-sm-8">
+    <div class="col-xs-8">
       <div class="interior-header-image">
           <img class="img-responsive" />
       </div>
@@ -57,7 +57,7 @@
     </div>
     <div class="col-xs-12 col-sm-4 careers-sidebar-container">
       <div id="nav-anchor"></div>
-      <img style="width: 360px;" src="assets/imgs/JoinTeam.jpg" />
+      <img class="img-responsive" src="assets/imgs/JoinTeam.jpg" />
       <div class="careers-sidebar">
         <p>Select <span class="red-text">one of the options below</span> to apply for employment.</p>
         <ul>

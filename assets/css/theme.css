@@ -120,6 +120,71 @@ h4{
 	margin-top: 35px;
 }
 
+/* Slider Styling */
+.sy-slides-wrap{
+	height: 530px !important;
+}
+
+.text-content h1{
+	font-size: 56px;
+}
+
+.text-content p{
+	font-size: 22px;
+}
+
+.news-slider {
+  /* Style the actual content */
+}
+.news-slider .text-content {
+  position: absolute;
+  top: 0;
+  right: 0;
+  background-color: rgba(0, 0, 0, 0.5);
+  padding: 0px 35px;
+  width: 30%;
+  height: 100%;
+}
+.news-slider .text-content h2 {
+  margin: 0;
+}
+.news-slider .text-content p {
+  margin: 1em 0;
+}
+.news-slider .text-content a.button-link {
+  padding: 0.25em 0.5em;
+  position: absolute;
+  bottom: 1em;
+  right: 1em;
+}
+.news-slider .image-content {
+  line-height: 0;
+}
+.news-slider .image-content img {
+  max-width: 100%;
+}
+.news-slider .news-pager {
+  text-align: right;
+  display: block;
+  margin: 0.2em 0 0;
+  padding: 0;
+  list-style: none;
+}
+.news-slider .news-pager li {
+  display: inline-block;
+  padding: 0.6em;
+  margin: 0 0 0 1em;
+}
+.news-slider .news-pager li.sy-active a {
+  color: #31ace2;
+}
+.news-slider .news-pager li a {
+  font-weight: 500;
+  text-decoration: none;
+  display: block;
+  color: #222;
+}
+
 /* PDF display styling */
 
 .pdf-wrap{
@@ -140,6 +205,7 @@ img.pdf-icon{
 }
 
 .pdf-filename{
+	width: 130px;
 	text-align: left;
 	font-weight: 600;
 	font-size: 10px;
@@ -147,7 +213,9 @@ img.pdf-icon{
 	margin: 0px;
 }
 
-
+.grey-background{
+	background-color: #666;
+}
 
 
 .technical-links a{
@@ -172,7 +240,7 @@ img.pdf-icon{
 }
 
 .header-content > div > .container .row .logowrap img{
-	width: 220px;
+	width: 100%;
 	margin: 0px;
 }
 
@@ -242,8 +310,6 @@ img.pdf-icon{
 	cursor: pointer;
 }
 
-
-
 .header-content > .red-background:last-child{
 	margin-top: 5px;
 }
@@ -271,16 +337,120 @@ img.pdf-icon{
 	padding: 0px 5px;
 }
 
+/* Mobile styles */
 @media (max-width: 767px){
 	.header-content > .red-background{
 		display: none;
 		height: 0px;
 	}
+
+	.pdf-filename{
+		width: 100%;
+	}
+
+	.text-content{
+		position: static !important;
+		width: 100% !important;
+	}
+
+	.text-content h1{
+		margin: 0px;
+		font-size: 48px;
+	}
+
+	.text-content p{
+		font-size: 17px;
+	}
+
+	.center-text h5{
+		font-size: 36px !important;
+	}
+
+	#white_content2 .row{
+		margin: 0px;
+	}
+
+	.sy-controls{
+		height: 80% !important;
+	}
+
+	.news-slider{
+		height: 530px;
+	}
+
+	#red_splash > div > h2{
+		font-size: 28px !important;
+	}
+
+	#white_content > div > p{
+		font-size: 20px;
+	}
 }
 
+/* Tablet styles portrait*/
+@media (min-width: 768px) and (max-width: 991px){
+	.news-slider{
+		height:341px;
+	}
+
+	.pdf-filename{
+		width: 100%;
+	}
+
+	.news-slider .text-content p{
+		font-size: 14px;
+	}
+
+	.news-slider .text-content h1{
+		font-size: 34px;
+	}
+
+	.sy-controls{
+		height: 65% !important;
+	}
+
+	.center-text h5{
+		font-size: 72px !important;
+	}
+
+	.overlay p{
+		font-size: 13px;
+		margin-top: 0px;
+	}
+
+	.interior-content img.pdf-icon{
+		width: 20px;
+	}
+
+	#white_content2 .row > div > .row > div h3{
+		height: 50px;
+	}
+}
+
+/* Tablet styles landscape */
 @media (min-width: 992px) and (max-width: 1199px){
 	.navigation li{
 		margin-left: 46px;
+	}
+
+	.pdf-filename{
+		width: 100%;
+	}
+
+	.news-slider{
+		height:441px;
+	}
+
+	.news-slider .text-content p{
+		font-size: 20px;
+	}
+
+	.news-slider .text-content h1{
+		font-size: 42px;
+	}
+
+	.sy-controls{
+		height: 85% !important;
 	}
 }
 
@@ -335,7 +505,6 @@ img.pdf-icon{
 .tablet-header > div > .searchbar .searchbar-position-right{
 	position: absolute;
 	right: 0px;
-	bottom: 10px;
 }
 
 .desktop-footer{
@@ -596,6 +765,86 @@ img.pdf-icon{
 	background-color: #e21836;
 	color: #fff;
 }
+
+
+
+/* Interior Mobile Styling */
+.mobile-backtotop{
+	float: right;
+	color: #fff;
+	text-decoration: none;
+	display: none;
+}
+
+.mobile-backtotop:hover{
+	text-decoration: none;
+	color: white;
+}
+
+.mobile-backtotop img{
+	width: 50px;
+}
+
+.interior-mobile-nav{
+		border-spacing: 0 2px;
+}
+
+.interior-mobile-nav ul{
+	margin-top: 25px;
+}
+
+.interior-mobile-nav li{
+		font-size: 12px;
+		padding: 4px;
+		color: #000;
+		margin: 3px 3px 3px 8px;
+		width: 170px;
+		cursor: pointer;
+}
+
+.interior-mobile-nav li a{
+	color: #000;
+	font-size: 14px;
+}
+
+.interior-mobile-nav li a:hover{
+	color: #000;
+	font-weight: 600;
+}
+
+.interior-mobile-nav li.selected a{
+	font-weight: 600;
+	color: #e21836;
+}
+
+.interior-mobile-nav li.backtotop{
+	margin-left: 3px;
+	color: #fff;
+	padding: 0px;
+}
+
+.interior-mobile-nav li.hierarchy.selected a{
+	color: #fff;
+	font-weight: 600;
+}
+
+.interior-mobile-nav li.hierarchy a:hover{
+	color: #fff;
+}
+
+.interior-mobile-nav li.hierarchy a{
+	font-weight: 600;
+}
+
+.interior-mobile-nav li.hierarchy{
+	margin-left: 3px;
+	background-color: #e21836;
+	color: #fff;
+}
+
+
+
+
 
 .interior-content{
 	position: relative;
