@@ -3,9 +3,6 @@
   <!--  -->
   <div class="row">
     <div class="col-xs-12 col-md-9">
-      <div class="interior-header-image">
-          <img class="img-responsive" />
-      </div>
       <div class="interior-content">
         <div class="section" id="section-0">
           <div class="row">
@@ -42,7 +39,7 @@
                 <a href="assets/pdf/GCISOCert.pdf" target="_blank"><img style="width: 100px;" src="assets/imgs/ISO-Square.png" /></a>
               </div>
               <div class="pdf-wrap">
-                <a href="assets/pdf/WBENCCertificate.pdf" target="_blank"><img style="margin-top: 5px;" src="assets/imgs/WBENC.png" /></a>
+                <a href="assets/pdf/WBENCCertificate.pdf" target="_blank"><img id="wbenc" src="assets/imgs/WBENC.png" /></a>
               </div>
               <!-- Section side content goes here -->
             </div>

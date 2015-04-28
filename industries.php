@@ -27,9 +27,6 @@
   <!-- End mobile subnav -->
   <div class="row">
     <div class="col-xs-12 col-sm-9">
-      <div class="interior-header-image">
-          <img class="img-responsive" />
-      </div>
       <div class="interior-content">
         <div class="section" id="section-0">
           <div class="row">

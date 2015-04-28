@@ -337,6 +337,10 @@ img.pdf-icon{
 	padding: 0px 5px;
 }
 
+#wbenc{
+	margin-top: 5px;
+}
+
 /* Mobile styles */
 @media (max-width: 767px){
 	.header-content > .red-background{

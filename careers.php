@@ -3,9 +3,6 @@
   <!--  -->
   <div class="row">
     <div class="col-xs-8">
-      <div class="interior-header-image">
-          <img class="img-responsive" />
-      </div>
       <div class="interior-content">
         <h1>Careers</h1>
         <p>As a growing company, General Carbide is always looking for people who are skilled in:</p>
