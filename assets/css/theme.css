@@ -341,6 +341,10 @@ img.pdf-icon{
 	margin-top: 5px;
 }
 
+#veterans{
+	padding-top: 15px;
+}
+
 /* Mobile styles */
 @media (max-width: 767px){
 	.header-content > .red-background{
@@ -380,6 +384,15 @@ img.pdf-icon{
 
 	.news-slider{
 		height: 530px;
+	}
+
+	.section{
+		padding-bottom: 0px;
+		padding-top: 50px;
+	}
+
+	#wbenc{
+		width: 30%;
 	}
 
 	#red_splash > div > h2{
@@ -789,6 +802,10 @@ img.pdf-icon{
 	width: 50px;
 }
 
+#rightside-mobile span{
+	float:right;
+}
+
 .interior-mobile-nav{
 		border-spacing: 0 2px;
 }
@@ -798,17 +815,23 @@ img.pdf-icon{
 }
 
 .interior-mobile-nav li{
-		font-size: 12px;
-		padding: 4px;
-		color: #000;
-		margin: 3px 3px 3px 8px;
-		width: 170px;
-		cursor: pointer;
+	font-size: 10px;
+	padding: 4px;
+	color: #000;
+	margin: 2px;
+	width: 100%;
+	background-color: #ddd;
+	cursor: pointer;
 }
 
 .interior-mobile-nav li a{
 	color: #000;
-	font-size: 14px;
+	font-size: 12px;
+}
+
+.interior-mobile-nav .row > div{
+	padding-left: 3px;
+	padding-right: 3px;
 }
 
 .interior-mobile-nav li a:hover{

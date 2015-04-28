@@ -27,9 +27,9 @@
 							</div>
 
 							<div class="col-sm-12 col-md-3 social-wrap">
-								<img src="assets/imgs/facebook.png" />
-								<img src="assets/imgs/linkedin.png" />
-								<img src="assets/imgs/youtube.png" />
+								<a href="https://www.facebook.com/pages/General-Carbide-Corporation/278843175550655"><img src="assets/imgs/facebook.png" /></a>
+								<a href="https://www.linkedin.com/company/1446957"><img src="assets/imgs/linkedin.png" /></a>
+								<a href="https://www.youtube.com/channel/UCZrOMsjfqkaDXAGt1KU8mUw"><img src="assets/imgs/youtube.png" /></a>
 							</div>
 						</div>
 					</div>
@@ -62,9 +62,9 @@
 								<li><a href="toolbox.php">TOOLBOX</a></li>
 							</ul>
 							<div style="float: right; margin-top: 27px;" class="social-wrap">
-								<img src="assets/imgs/facebook.png" />
-								<img src="assets/imgs/linkedin.png" />
-								<img src="assets/imgs/youtube.png" />
+								<a href="https://www.facebook.com/pages/General-Carbide-Corporation/278843175550655"><img src="assets/imgs/facebook.png" /></a>
+								<a href="https://www.linkedin.com/company/1446957"><img src="assets/imgs/linkedin.png" /></a>
+								<a href="https://www.youtube.com/channel/UCZrOMsjfqkaDXAGt1KU8mUw"><img src="assets/imgs/youtube.png" /></a>
 							</div>
 						</div>
 					</div>
@@ -102,9 +102,9 @@
 						<div class="footer-nav text-center col-xs-12">
 							<h4>Find out how we can solve your toughest wear problems.</h4>
 							<div class="social-wrap">
-								<img src="assets/imgs/facebook.png" />
-								<img src="assets/imgs/linkedin.png" />
-								<img src="assets/imgs/youtube.png" />
+								<a href="https://www.facebook.com/pages/General-Carbide-Corporation/278843175550655"><img src="assets/imgs/facebook.png" /></a>
+								<a href="https://www.linkedin.com/company/1446957"><img src="assets/imgs/linkedin.png" /></a>
+								<a href="https://www.youtube.com/channel/UCZrOMsjfqkaDXAGt1KU8mUw"><img src="assets/imgs/youtube.png" /></a>
 							</div>
 						</div>
 					</div>

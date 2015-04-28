@@ -22,7 +22,7 @@
                   <a href="assets/pdf/PremoAwardSlides.pdf" target="_blank"><img src="assets/imgs/Premo.jpg" /></a>
                 </div>
                 <div class="col-xs-6">
-                  <a href="assets/pdf/GCVeterans.pdf" target="_blank"><img src="assets/imgs/VeteransPlaceholder.png" /></a>
+                  <a href="assets/pdf/GCVeterans.pdf" target="_blank"><img id="veterans" src="assets/imgs/VeteransPlaceholder.png" /></a>
                 </div>
               </div>
             </div>

@@ -5,13 +5,13 @@
         <div class="row">
             <section class="news">
               <section id="shop-demo">
-                <article title="Oil & Gas">
+                <article title="Grade Selector">
                   <div class="image-content">
                     <img src="assets/imgs/Slider1.jpg" alt="demo1_2" class="product-image">
                   </div>
                   <div class="text-content">
                     <h1><span class="thin-text">REDEFINING</span><br /> POSSIBLE</h1>
-                    <p>Every day, General Carbide’s engineering and production teams use their expertise to provide customers with carbide tooling, assemblies and components that are able to withstand the harshest environments.</p>
+                    <p>Download our Toolbox Mobile App and discover the industry’s only Grade Selector — a proprietary tool that easily allows you to choose the best grade for your application. It also includes conversion calculators and <i>The Designer’s Guide to Tungsten Carbide</i>.</p>
                   </div>
                 </article>
                 <article title="Oil & Gas">
@@ -20,16 +20,16 @@
                   </div>
                   <div class="text-content">
                     <h1><span class="thin-text">REDEFINING</span><br /> POSSIBLE</h1>
-                    <p>Every day, General Carbide’s engineering and production teams use their expertise to provide customers with carbide tooling, assemblies and components that are able to withstand the harshest environments.</p>
+                    <p>At General Carbide, we partner with our customers to develop new grades that yield superior wear resistance, toughness and tool life in the harshest environments. Let our technical know-how help you increase productivity.</p>
                   </div>
                 </article>
-                <article title="Oil & Gas">
+                <article title="Ammunition">
                   <div class="image-content">
                     <img src="assets/imgs/Slider3.jpg" alt="demo1_2" class="product-image">
                   </div>
                   <div class="text-content">
                     <h1><span class="thin-text">REDEFINING</span><br /> POSSIBLE</h1>
-                    <p>Every day, General Carbide’s engineering and production teams use their expertise to provide customers with carbide tooling, assemblies and components that are able to withstand the harshest environments.</p>
+                    <p>We’re your “one-stop-shop” for premium ammunition tooling and firearms components. With ISO and Type 10 FFL certifications, and in-house finishing capabilities, we have the expertise to formulate the best grade for your application.</p>
                   </div>
                 </article>
               </section>

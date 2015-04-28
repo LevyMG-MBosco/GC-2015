@@ -5,21 +5,21 @@
     <ul id="nav2" class="nav">
       <div class="row">
         <div class="col-xs-6">
-          <span><li><a href="#section-1">Ammunition Tooling &<br /> Firearms Manufacturing</a></li></span>
-          <span><li><a href="#section-2">Can Tooling</a></li></span>
-          <span><li><a href="#section-3">Fastener Tooling</a></li></span>
-          <span><li><a href="#section-4">General Metalforming</a></li></span>
-          <span><li><a href="#section-5">Oil & Gas Components</a></li></span>
-          <span><li><a href="#section-6">PM/Compaction Tooling</a></li></span>
+          <span><li class="btn btn-default"><a href="#section-1">Ammunition Tooling &<br /> Firearms Manufacturing</a></li></span>
+          <span><li class="btn btn-default"><a href="#section-2">Can Tooling</a></li></span>
+          <span><li class="btn btn-default"><a href="#section-3">Fastener Tooling</a></li></span>
+          <span><li class="btn btn-default"><a href="#section-4">General Metalforming</a></li></span>
+          <span><li class="btn btn-default"><a href="#section-5">Oil & Gas Components</a></li></span>
+          <span><li class="btn btn-default"><a href="#section-6">PM/Compaction Tooling</a></li></span>
         </div>
         <div class="col-xs-6">
-          <span><li><a href="#section-7">Rooftile Tooling</a></li></span>
-          <span><li><a href="#section-8">Rotary Cutting Dies</a></li></span>
-          <span><li><a href="#section-9">Rotary Tooling</a></li></span>
-          <span><li><a href="#section-10">Severe Service Tooling</a></li></span>
-          <span><li><a href="#section-11">Specialty Tooling</a></li></span>
-          <span><li><a href="#section-12">Stamping/Lamination Tooling</a></li></span>
-          <span><li><a href="#section-13">Synthetic Diamond<br /> Manufacturing</a></li></span>
+          <span><li class="btn btn-default"><a href="#section-7">Rooftile Tooling</a></li></span>
+          <span><li class="btn btn-default"><a href="#section-8">Rotary Cutting Dies</a></li></span>
+          <span><li class="btn btn-default"><a href="#section-9">Rotary Tooling</a></li></span>
+          <span><li class="btn btn-default"><a href="#section-10">Severe Service Tooling</a></li></span>
+          <span><li class="btn btn-default"><a href="#section-11">Specialty Tooling</a></li></span>
+          <span><li class="btn btn-default"><a href="#section-12">Stamping/Lamination Tooling</a></li></span>
+          <span><li class="btn btn-default"><a href="#section-13">Synthetic Diamond<br /> Manufacturing</a></li></span>
         </div>
       </div>
     </ul>
