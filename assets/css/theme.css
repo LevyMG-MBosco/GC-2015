@@ -285,6 +285,16 @@ img.pdf-icon{
 	padding: 20px;
 }
 
+.calc div{
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+.calc{
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
 /* Landing page overlay */
 .overlay{
 	position: relative;
@@ -362,12 +372,13 @@ img.pdf-icon{
 	}
 
 	.text-content h1{
+		padding: 6px 0px;
 		margin: 0px;
 		font-size: 48px;
 	}
 
 	.text-content p{
-		font-size: 17px;
+		font-size: 16px;
 	}
 
 	.center-text h5{
@@ -459,7 +470,7 @@ img.pdf-icon{
 	}
 
 	.news-slider .text-content p{
-		font-size: 20px;
+		font-size: 18px;
 	}
 
 	.news-slider .text-content h1{

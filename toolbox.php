@@ -49,21 +49,9 @@
                 <a name="conversion"></a>
                 <h3>Conversion Calculator</h3>
               </div>
-              <div class="col-xs-12 col-sm-9">
+              <div class="col-xs-12">
                 <p>Allows you to convert measurements related to Pressure, Density, Mass, Length, Force and Temperature from English to metric units.</p>
-                <form>
-                	<fieldset>
-                    <label for="userInput">psi</label>
-                    <input type="text" id="userInput" name="userInput" /><br />
-
-                    <label for="output">kPa</label>
-                    <input type="text" id="output" name="output" /><br />
-
-                    <input type="button" id="calc" onclick="convert(6.8948)" value="Calculate"  />
-                	</fieldset>
-                </form>
-
-                <div class="row">
+                <div class="row calc panel panel-default">
                   <div class="col-xs-4 col-sm-2">
                     <ul class="conversion-list">
                     	<li class="heading">Pressure</li>
@@ -115,8 +103,40 @@
                         <li><a href="#conversion" class="calc-btn" call="Kf()">&deg;K to &deg;F</a></li>
                     </ul>
                   </div>
+                  <div class="col-xs-12">
+                    <table>
+                      <tbody>
+                      <form>
+                        <fieldset>
+                          <tr>
+                            <td>
+                              <label for="userInput">psi</label>
+                            </td>
+                            <td>
+                              <input type="text" id="userInput" name="userInput" /><br />
+                            </td>
+                            <td rowspan="2">
+                              <input type="button" id="calc" onclick="convert(6.8948)" value="Calculate"  />
+                            </td>
+                          </tr>
+                          <tr>
+                            <td>
+                              <label for="output">kPa</label>
+                            </td>
+                            <td>
+                              <input type="text" id="output" name="output" /><br />
+                            </td>
+                          </tr>
+                        </fieldset>
+                      </form>
+                      </tbody>
+                    </table>
+                  </div>
                 </div>
               </div>
+
+
+
               <div class="col-xs-12 col-sm-3">
                 <!-- Section side content goes here -->
               </div>
