@@ -42,12 +42,6 @@
         </div>
 
         <div id="slidemenu">
-        <form class="navbar-form navbar-right" role="form">
-          <div class="form-group">
-            <input type="search" placeholder="search" class="form-control">
-          </div>
-          <button type="submit" class="btn btn-primary">Search</button>
-        </form>
         <ul class="nav navbar-nav">
          <li <?php if ($page == "about.php"){ echo "class='active'"; } ?>><a href="about.php">ABOUT</a></li>
          <li <?php if ($page == "news.php"){ echo "class='active'"; } ?>><a href="news.php">NEWS & EVENTS</a></li>
@@ -69,16 +63,6 @@
 <div class="header-content">
     <div class="black-background">
         <div class="desktop-header container">
-
-            <div class="row">
-              <div class="searchbar col-xs-12">
-                  <div class="searchbar-position-right">
-                    <input placeholder="Search">
-                    <img src="assets/imgs/mag.png" />
-                  </div>
-              </div>
-            </div>
-
             <div class="row">
                 <div class="logowrap col-md-5 col-xs-12">
                   <img style="width: 500px;" class="img-responsive" src="assets/imgs/GCLogo.gif"/>
@@ -86,10 +70,10 @@
                 <div class="linkwrap col-xs-7">
                   <div class="header-position-right">
                     <ul class="contact-navigation">
-                        <li><a href="about.php">About</a></li> |
-                        <li><a href="news.php">News & Events</a></li> |
-                        <li><a href="careers.php">Careers</a></li> |
-                        <li><a href="contact.php">Contact</a></li>
+                        <li <?php if ($page == "about.php"){ echo "class='currentnav'"; } ?>><a href="about.php">About</a></li> |
+                        <li <?php if ($page == "news.php"){ echo "class='currentnav'"; } ?>><a href="news.php">News & Events</a></li> |
+                        <li <?php if ($page == "careers.php"){ echo "class='currentnav'"; } ?>><a href="careers.php">Careers</a></li> |
+                        <li <?php if ($page == "contact.php"){ echo "class='currentnav'"; } ?>><a href="contact.php">Contact</a></li>
                     </ul>
                   </div>
                 </div>
@@ -107,16 +91,12 @@
               </div>
 
               <div class="searchbar col-xs-6">
-                  <div class="searchbar-position-right">
-                    <input placeholder="Search">
-                    <img src="assets/imgs/mag.png" />
-                  </div>
                   <div class="header-position-right">
                     <ul class="contact-navigation">
-                      <li><a href="about.php">About</a></li> |
-                      <li><a href="news.php">News & Events</a></li> |
-                      <li><a href="careers.php">Careers</a></li> |
-                      <li><a href="contact.php">Contact</a></li>
+                      <li <?php if ($page == "about.php"){ echo "class='currentnav'"; } ?>><a href="about.php">About</a></li> |
+                      <li <?php if ($page == "news.php"){ echo "class='currentnav'"; } ?>><a href="news.php">News & Events</a></li> |
+                      <li <?php if ($page == "careers.php"){ echo "class='currentnav'"; } ?>><a href="careers.php">Careers</a></li> |
+                      <li <?php if ($page == "contact.php"){ echo "class='currentnav'"; } ?>><a href="contact.php">Contact</a></li>
                     </ul>
                   </div>
               </div>
@@ -135,12 +115,12 @@
         <div class="lower-nav container">
             <div class="row">
                 <ul class="col-sm-12 navigation">
-                    <li><a href="index.php">HOME</a></li>
-                    <li><a href="industries.php">INDUSTRIES</a></li>
-                    <li><a href="grades.php">GRADES</a></li>
-                    <li><a href="quality.php">QUALITY</a></li>
-                    <li><a href="library.php">LIBRARY</a></li>
-                    <li><a href="toolbox.php">TOOLBOX</a></li>
+                    <li <?php if ($page == "index.php"){ echo "class='currentnav'"; } ?>><a href="index.php">HOME</a></li>
+                    <li <?php if ($page == "industries.php"){ echo "class='currentnav'"; } ?>><a href="industries.php">INDUSTRIES</a></li>
+                    <li <?php if ($page == "grades.php"){ echo "class='currentnav'"; } ?>><a href="grades.php">GRADES</a></li>
+                    <li <?php if ($page == "quality.php"){ echo "class='currentnav'"; } ?>><a href="quality.php">QUALITY</a></li>
+                    <li <?php if ($page == "library.php"){ echo "class='currentnav'"; } ?>><a href="library.php">LIBRARY</a></li>
+                    <li <?php if ($page == "toolbox.php"){ echo "class='currentnav'"; } ?>><a href="toolbox.php">TOOLBOX</a></li>
                 </ul>
             </div>
         </div>

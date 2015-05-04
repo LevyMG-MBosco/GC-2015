@@ -18,7 +18,7 @@
         </ul>
         <p>If you're interested in taking your career to new heights at General Carbide, please take a look at our available positions.</p>
         <p>As an equal opportunity employer, we offer competitive wages along with these generous benefits:</p>
-        <p class="red-text">Health Insurance</p>
+        <p class="black-text">Health Insurance</p>
         <ul>
           <li>Hospitalization/POS</li>
           <li>Prescription drugs</li>
@@ -26,23 +26,23 @@
           <li>Dental</li>
           <li>Flexible Spending Accounts</li>
         </ul>
-        <p class="red-text">Other Insurance</p>
+        <p class="black-text">Other Insurance</p>
         <ul>
           <li>Group Term Life</li>
           <li>Accidental Death & Dismemberment</li>
           <li>Short Term Disability</li>
           <li>Long Term Disability</li>
         </ul>
-        <p class="red-text">Paid Time Off</p>
+        <p class="black-text">Paid Time Off</p>
         <ul>
           <li>Vacation days based on years of service</li>
           <li>11 Holidays</li>
         </ul>
-        <p class="red-text">Retirement Plan</p>
+        <p class="black-text">Retirement Plan</p>
         <ul>
           <li>401K Account</li>
         </ul>
-        <p class="red-text">Other Benefits</p>
+        <p class="black-text">Other Benefits</p>
         <ul>
           <li>Employee Assistance Plan</li>
           <li>Social Events</li>
@@ -58,8 +58,8 @@
       <div class="careers-sidebar">
         <p>Select <span class="red-text">one of the options below</span> to apply for employment.</p>
         <ul>
-          <li><a href="">Send us your resume</a></li>
-          <li><a href="">Download our application form</a></li>
+          <li><a href="contact.php">Send us your resume</a></li>
+          <li><a href="assets/pdf/GCEmploymentApplication.pdf">Download our application form</a></li>
         </ul>
       </div>
       <div class="careers-sidebar">

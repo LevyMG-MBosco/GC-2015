@@ -117,7 +117,7 @@
                     <img class="img-responsive" src="assets/imgs/Download_Our_App.png" />
                 </div>
                 <div class="col-sm-8">
-                    <h3>Download our mobile app!</h3>
+                    <h3>Download our Mobile App!</h3>
                     <p>Find the best grade for our application, quickly convert Rockwell Hardness scales, and much more!</p>
                     <a class="learnmore" href="#">Learn More</a>
                 </div>

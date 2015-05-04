@@ -26,7 +26,15 @@
                 </div>
               </div>
             </div>
-            <div class="col-xs-12 col-sm-3">
+            <div class="sidebar col-xs-12 col-sm-3">
+              <div class="pdf-wrap">
+                <a href="assets/pdf/WBENCCertificate.pdf" target="_blank"><img style="max-width: 330px;" class="img-responsive" id="wbenc" src="assets/imgs/WBENC.png" /></a>
+              </div>
+
+              <div class="pdf-wrap">
+                <a href="assets/pdf/GCISOCert.pdf" target="_blank"><img style="max-width: 210px;" class="img-responsive" src="assets/imgs/ISO.png" /></a>
+              </div>
+
               <div class="pdf-wrap">
                 <a href="assets/pdf/GCBrochure.pdf" target="_blank">
                   <table><tbody><tr>
@@ -35,13 +43,6 @@
                   </tr></tbody></table>
                 </a>
               </div>
-              <div class="pdf-wrap">
-                <a href="assets/pdf/GCISOCert.pdf" target="_blank"><img style="width: 100px;" src="assets/imgs/ISO-Square.png" /></a>
-              </div>
-              <div class="pdf-wrap">
-                <a href="assets/pdf/WBENCCertificate.pdf" target="_blank"><img id="wbenc" src="assets/imgs/WBENC.png" /></a>
-              </div>
-              <!-- Section side content goes here -->
             </div>
           </div>
         </div>

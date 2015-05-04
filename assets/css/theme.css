@@ -193,10 +193,6 @@ h4{
 	text-align: center;
 }
 
-.pdf-wrap table{
-	margin: 0 auto;
-}
-
 .interior-content img.pdf-icon{
 	width: 40px;
 }
@@ -279,10 +275,40 @@ img.pdf-icon{
 	padding: 5px;
 }
 
+#white_content a:hover{
+	text-decoration: none;
+}
+
 .overlay-opacity p{
 	color: #fff;
 	margin-top: 9%;
 	padding: 20px;
+}
+
+.calc input[type='text']{
+	float: left;
+}
+
+.calc input[type='button']{
+	margin: 5px auto 0px;
+}
+
+.calc > div > div > table{
+	height: 250px;
+	margin: 0 auto;
+}
+
+.calc li.heading{
+	margin-left: 0px;
+}
+
+.calc li{
+	margin-lefT: 5px;
+}
+
+.calc td{
+	padding: 1px;
+	text-align: center;
 }
 
 .calc div{
@@ -315,7 +341,7 @@ img.pdf-icon{
 	position: absolute;
 	left: 0;
 	top: 0;
-	background-color: rgba(0,0,0,0.5);
+	background-color: rgba(0,0,0,0.7);
 	display:none;
 	cursor: pointer;
 }
@@ -325,7 +351,7 @@ img.pdf-icon{
 }
 
 .navigation{
-	margin-top: 5px;
+	margin: 0px;
 	float: right;
 	display: table;
 }
@@ -335,7 +361,15 @@ img.pdf-icon{
 	display: table-cell;
 	margin-left: 60px;
 	font-size: 25px;
-	padding: 0px;
+	padding: 7px;
+}
+
+.navigation li.currentnav{
+	background-color: #9c1523;
+}
+
+.contact-navigation li.currentnav{
+	font-weight: 600;
 }
 
 .footer .row > div > ul{
@@ -365,6 +399,12 @@ img.pdf-icon{
 	.pdf-filename{
 		width: 100%;
 	}
+
+	#mobile-footer-logo{
+		margin: 10px auto;
+	}
+
+
 
 	.text-content{
 		position: static !important;
@@ -458,7 +498,7 @@ img.pdf-icon{
 /* Tablet styles landscape */
 @media (min-width: 992px) and (max-width: 1199px){
 	.navigation li{
-		margin-left: 46px;
+		margin-left: 36px;
 	}
 
 	.pdf-filename{
@@ -491,7 +531,7 @@ img.pdf-icon{
 
 @media (max-width: 991px){
 	.navigation li{
-		margin-left: 21px;
+		margin-left: 16px;
 	}
 }
 
@@ -880,16 +920,24 @@ img.pdf-icon{
 	color: #fff;
 }
 
-
-
-
-
 .interior-content{
 	position: relative;
 }
 
 .interior-content img{
 	width: 100%;
+}
+
+.interior-content ul{
+	list-style: none;
+	padding-left: 15px;
+}
+
+.interior-content li:before{
+	content: "■";
+	font-family:"Arial Black";
+	padding-right: 7px;
+	color: #e21836;
 }
 
 .interior-nav .hierarchy a{
@@ -911,6 +959,11 @@ img.pdf-icon{
 	font-weight: 600;
 }
 
+.black-text{
+	color: #000;
+	font-weight: 600;
+}
+
 .interior-content .seal{
 	width: 125px;
 }
@@ -922,7 +975,7 @@ img.pdf-icon{
 	margin-top: 12px;
 }
 
-.section{
+.section:last-child{
 	padding-bottom: 50px;
 }
 

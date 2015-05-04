@@ -2,25 +2,24 @@
 <div class="interior-page-wrap container">
   <!--  -->
   <div class="row">
-    <div class="col-xs-12 col-md-9">
+    <div class="col-xs-12">
       <div class="interior-content">
         <div class="section" id="section-0">
           <div class="row">
-            <div class="col-xs-12">
+            <div class="col-xs-12 col-md-9">
               <img src='assets/imgs/Library-HERO.jpg' />
             </div>
           </div>
           <div class="row">
-            <div class="col-xs-12 col-sm-9">
+            <div class="col-xs-12">
               <h1>Library</h1>
               <h3>Your Best Source for Technical Information About Tungsten Carbide Tooling</h3>
               <p>At General Carbide, we take pride in our technical expertise and have established this collection of valuable information to help you make the best decisions about tungsten carbide tooling for your particular application.</p>
             </div>
-            <div class="col-xs-12 col-sm-3">
-              <!-- Section side content goes here -->
-            </div>
           </div>
         </div>
+        <div class="col-xs-12 col-sm-6">
+
         <div class="section" id="section-1">
           <div class="row">
             <div class="col-xs-12">
@@ -35,9 +34,6 @@
               <p><a href="assets/pdf/GCMSDS.pdf" target="_blank">Material Safety Data Sheets</a></p>
 
             </div>
-            <div class="col-xs-12 col-sm-3">
-              <!-- Section side content goes here -->
-            </div>
           </div>
         </div>
         <div class="section" id="section-2">
@@ -46,7 +42,7 @@
             </div>
           </div>
           <div class="row">
-            <div class="technical-links col-xs-12 col-sm-9">
+            <div class="technical-links col-xs-12">
               <h3>Application Data Sheets</h3>
               <p><a href="assets/pdf/GCAmmoGrades.pdf" target="_blank">Ammunition Tooling Grades</a></p>
               <p><a href="assets/pdf/GCConcreteWear.pdf" target="_blank">Concrete Industry Wear Parts</a></p>
@@ -60,9 +56,6 @@
               <p><a href="assets/pdf/GCSinterHIP.pdf" target="_blank">Sinter-HIP Advantages</a></p>
               <p><a href="assets/pdf/GCSteelStamping.pdf" target="_blank">Stamping 1006 Cold Rolled Steel</a></p>
             </div>
-            <div class="col-xs-12 col-sm-3">
-              <!-- Section side content goes here -->
-            </div>
           </div>
         </div>
         <div class="section" id="section-3">
@@ -71,7 +64,27 @@
             </div>
           </div>
           <div class="row">
-            <div class="technical-links col-xs-12 col-sm-9">
+            <div class="technical-links col-xs-12">
+              <h3>Ads</h3>
+              <a href="assets/pdf/GCAdPowderMetal.pdf" target="_blank">We Don't Crack Under Pressure</a>
+              <p class="subtext">As seen in International Journal of Powder Metallurgy</p>
+              <a href="assets/pdf/GCAdParts.pdf" target="_blank">All parts are not created equal. Some are made by General Carbide.</a>
+              <p class="subtext">As seen in Manufacturing Engineering magazine</p>
+              <a href="assets/pdf/GCAdPacesetters.pdf" target="_blank">Mona Pappafava-Ray</a>
+              <p class="subtext">As seen in Smart Business: Special PACESETTER edition - October 2010</p>
+              <a href="assets/pdf/GCNewsletter.pdf" target="_blank">Carbide Grade Selector E-Newsletter</a>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-xs-12 col-sm-6">
+        <div class="section" id="section-4">
+          <div class="row">
+            <div class="col-xs-12">
+            </div>
+          </div>
+          <div class="row">
+            <div class="technical-links col-xs-12">
               <h3>Technical Articles</h3>
               <a href="assets/pdf/GCGenFixxWhitePaper.pdf" target="_blank">An analysis of the GenFixx™ mechanical assembly technique compared to a brazed assembly technique used in severe service valve component applications</a>
               <p class="subtext">by Thomas R. Shearer, Managing Director General Carbide|UK</p>
@@ -95,45 +108,10 @@
               <p class="subtext">This publication is a reference guide for designers, engineers, fabricators and end users of tungsten carbide. It is a compilation of recommendations derived from practical experience, theoretical stress analysis, proven application engineering practices and modern manufacturing techniques. It will enable the reader to gain insight to using one of the most versatile engineering materials available today.
               <br />© Copyright 2010 General Carbide</p>
             </div>
-            <div class="col-xs-12 col-sm-3">
-              <!-- Section side content goes here -->
-            </div>
           </div>
         </div>
-        <div class="section" id="section-4">
-          <div class="row">
-            <div class="col-xs-12">
-            </div>
-          </div>
-          <div class="row">
-            <div class="technical-links col-xs-12 col-sm-9">
-              <h3>Ads</h3>
-              <a href="assets/pdf/GCAdPowderMetal.pdf" target="_blank">We Don't Crack Under Pressure</a>
-              <p class="subtext">As seen in International Journal of Powder Metallurgy</p>
-              <a href="assets/pdf/GCAdParts.pdf" target="_blank">All parts are not created equal. Some are made by General Carbide.</a>
-              <p class="subtext">As seen in Manufacturing Engineering magazine</p>
-              <a href="assets/pdf/GCAdPacesetters.pdf" target="_blank">Mona Pappafava-Ray</a>
-              <p class="subtext">As seen in Smart Business: Special PACESETTER edition - October 2010</p>
-              <a href="assets/pdf/GCNewsletter.pdf" target="_blank">Carbide Grade Selector E-Newsletter</a>
-            </div>
-            <div class="col-xs-12 col-sm-3">
-              <!-- Section side content goes here -->
-            </div>
-          </div>
-        </div>
+
       </div>
-    </div>
-    <div class="col-xs-3">
-      <div id="nav-anchor"></div>
-      <div class="interior-nav"><!--
-        <ul id="nav" class="nav">
-          <span><li><a href="#top">Back to Top</a></li></span>
-          <span><li class="selected"><a href="#section-0">Library</a></li></span>
-          <span><li><a href="#section-1">Sales Literature</a></li></span>
-          <span><li><a href="#section-2">Application Data Sheets</a></li></span>
-          <span><li><a href="#section-3">Technical Articles</a></li></span>
-          <span><li><a href="#section-4">Ads</a></li></span>
-        </ul>-->
       </div>
     </div>
   </div>

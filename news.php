@@ -32,7 +32,7 @@
                 </div>
                 <div class="panel-body">
                   <p>In a visit to General Carbide's facilities on October 22, 2014, Gov. Tom Corbett met with Mona Pappafava-Ray, president and CEO, and 40 employees, to discuss the proposal of gubernatorial candidate Tom Wolf to raise Pennsylvania's state income tax by nearly 200 percent.</p>
-                  <span class="readmore"><a href="">Read More »</a></span>
+                  <span class="readmore"><a href="http://triblive.com/news/westmoreland/7010904-74/corbett-wolf-taxes#axzz3GyJgdBvv" target="_blank">Read More »</a></span>
                 </div>
               </div>
             </div>
@@ -45,7 +45,7 @@
                 </div>
                 <div class="panel-body">
                   <p>GCC became part of the "Ice Bucket Challenge" social media phenomenon by raising $1,000 to help find a cure for amyotrophic lateral sclerosis (ALS), better known as Lou Gehrig’s Disease.</p>
-                  <span class="readmore"><a href="">Read More »</a></span>
+                  <span class="readmore"><a href="assets/pdf/NEWSIceBucket.pdf" target="_blank">Read More »</a></span>
                 </div>
               </div>
             </div>
@@ -66,7 +66,7 @@
                 </div>
                 <div class="panel-body">
                   <p>General Carbide Corporation, a manufacturer of more than 50 grades of tungsten carbide tooling for a variety of industrial wear, metal forming and stamping applications, has earned ISO certification. </p>
-                  <span class="readmore"><a href="">Read More »</a></span>
+                  <span class="readmore"><a href="assets/pdf/NEWSCertification.pdf" target="_blank">Read More »</a></span>
                 </div>
               </div>
             </div>
@@ -74,27 +74,27 @@
           <div class="row">
             <div class="col-xs-12">
               <div class="news-section">
-                <span class="readmore"><a href="">General Carbide Corporation will be observing its 45th anniversary with a picnic at the company's Hempfield Township facility on Friday, July 26.</a></span>
+                <span class="readmore"><a href="assets/pdf/NEWSHempfieldPicnic.pdf" target="_blank">General Carbide Corporation will be observing its 45th anniversary with a picnic at the company's Hempfield Township facility on Friday, July 26.</a></span>
               </div>
             </div>
           </div>
           <div class="row">
             <div class="col-xs-12">
               <div class="news-section">
-                <span class="readmore"><a href="">Mona Pappafava-Ray, General Carbide Corp. President & CEO, Named Diamond Award Winner</a></span>
+                <span class="readmore"><a href="assets/pdf/NEWSPappafava.pdf" target="_blank">Mona Pappafava-Ray, General Carbide Corp. President & CEO, Named Diamond Award Winner</a></span>
               </div>
             </div>
           </div>
           <div class="row">
             <div class="col-xs-12">
               <div class="news-section">
-                <span class="readmore"><a href="">General Carbide Receives Re-Certification from WBENC</a></span>
+                <span class="readmore"><a href="assets/pdf/NEWSWBENC.pdf" target="_blank">General Carbide Receives Re-Certification from WBENC</a></span>
               </div>
             </div>
           </div>
         </div>
 
-        <div class="section" id="section-3">
+        <div class="section" id="section-3" style="margin-top: 25px;">
           <div class="row">
             <div class="col-xs-12">
               <h3>Tradeshows & Seminars</h3>
@@ -107,7 +107,7 @@
                   <h4>Offshore Europe 2015</h4>
                   <h4>Oil & Gas Conference & Exhibition</h4>
                 </div>
-                <div class="lanel-body">
+                <div class="panel-body">
                   <p>Sept. 8-11</p>
                   <p>Aberdeen | UK</p>
                   <span class="readmore"><a href="http://www.offshore-europe.co.uk" target="_blank">www.offshore-europe.co.uk</a></span>
@@ -128,7 +128,7 @@
           <div class="row">
             <div class="col-xs-12">
               <div class="news-section">
-                <span class="readmore"><a href="">In a visit to General Carbide's facilities on October 22, 2014, Gov. Tom Corbett met with Mona Pappafava-Ray, president and CEO, and 40 employees, to discuss the proposal of gubernatorial candidate Tom Wolf to raise Pennsylvania's state income tax by nearly 200 percent.</a></span>
+                <span class="readmore"><a href="http://triblive.com/news/westmoreland/7010904-74/corbett-wolf-taxes#axzz3GyJgdBvv" target="_blank">In a visit to General Carbide's facilities on October 22, 2014, Gov. Tom Corbett met with Mona Pappafava-Ray, president and CEO, and 40 employees, to discuss the proposal of gubernatorial candidate Tom Wolf to raise Pennsylvania's state income tax by nearly 200 percent.</a></span>
                 <p>Triblive</p>
               </div>
             </div>
@@ -137,7 +137,7 @@
           <div class="row">
             <div class="col-xs-12">
               <div class="news-section">
-                <span class="readmore"><a href="">Nail Stamper Seeks Tooling Tough as Nails</a></span>
+                <span class="readmore"><a href="http://www.stampingjournal-digital.com/stampingjournal/20120506?sub_id=13yLsU9CfMwz&folio=18#pg18" target="_blank">Nail Stamper Seeks Tooling Tough as Nails</a></span>
                 <p>Stamping Journal</p>
               </div>
             </div>
@@ -156,7 +156,7 @@
           <div class="row">
             <div class="col-xs-12">
               <div class="news-section">
-                <span class="readmore"><a href="">We Don't Crack Under Pressure</a></span>
+                <span class="readmore"><a href="assets/pdf/NEWSMetallurgy.pdf" target="_blank">We Don't Crack Under Pressure</a></span>
                 <p>As seen in International Journal of Powder Metallurgy</p>
               </div>
             </div>
@@ -165,7 +165,7 @@
           <div class="row">
             <div class="col-xs-12">
               <div class="news-section">
-                <span class="readmore"><a href="">All parts are not created equal. Some are made by General Carbide.</a></span>
+                <span class="readmore"><a href="assets/pdf/NEWSEngineering.pdf" target="_blank">All parts are not created equal. Some are made by General Carbide.</a></span>
                 <p>As seen in Manufacturing Engineering magazine</p>
               </div>
             </div>
@@ -174,7 +174,7 @@
           <div class="row">
             <div class="col-xs-12">
               <div class="news-section">
-                <span class="readmore"><a href="">Mona Pappafava-Ray</a></span>
+                <span class="readmore"><a href="assets/pdf/NEWSPacesetter.pdf" target="_blank">Mona Pappafava-Ray</a></span>
                 <p>As seen in Smart Business: Special PACESETTER edition - October 2010</p>
               </div>
             </div>
@@ -183,7 +183,7 @@
           <div class="row">
             <div class="col-xs-12">
               <div class="news-section">
-                <span class="readmore"><a href="">Carbide Grade Selector E-Newsletter</a></span>
+                <span class="readmore"><a href="assets/pdf/NEWSNewsletter.pdf" target="_blank">Carbide Grade Selector E-Newsletter</a></span>
               </div>
             </div>
           </div>

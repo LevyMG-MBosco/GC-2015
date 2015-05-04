@@ -23,7 +23,6 @@
 									<li><a href="toolbox.php">TOOLBOX</a></li>
 								</ul><br />
 
-								<h4>Find out how we can solve your toughest wear problems.</h4>
 							</div>
 
 							<div class="col-sm-12 col-md-3 social-wrap">
@@ -74,18 +73,6 @@
 
 				<div class="mobile-footer">
 					<div class="row">
-						<div class="footer-nav col-xs-12">
-							<ul>
-								<li><a href="index.php">HOME</a></li>  |
-								<li><a href="industries.php">INDUSTRIES</a></li>  |
-								<li><a href="grades.php">GRADES</a></li>  |
-								<li><a href="quality.php">QUALITY</a></li>  |
-								<li><a href="library.php">LIBRARY</a></li>  |
-								<li><a href="toolbox.php">TOOLBOX</a></li>
-							</ul>
-						</div>
-					</div>
-					<div class="row">
 						<div class="col-xs-12 text-center">
 							<img style="width: 325px; height: 50px;" id="mobile-footer-logo" src="assets/imgs/GCLogo_BW.jpg" class="img-responsive"/>
 							<p>GENERAL CARBIDE CORPORATION</p>
@@ -100,7 +87,6 @@
 
 					<div class="row">
 						<div class="footer-nav text-center col-xs-12">
-							<h4>Find out how we can solve your toughest wear problems.</h4>
 							<div class="social-wrap">
 								<a href="https://www.facebook.com/pages/General-Carbide-Corporation/278843175550655"><img src="assets/imgs/facebook.png" /></a>
 								<a href="https://www.linkedin.com/company/1446957"><img src="assets/imgs/linkedin.png" /></a>
