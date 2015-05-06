@@ -5,33 +5,47 @@
         <div class="row">
             <section class="news">
               <section id="shop-demo">
+
                 <article title="Grade Selector">
                   <div class="image-content">
-                    <img src="assets/imgs/Slider1.jpg" alt="demo1_2" class="product-image">
+                    <img src="assets/imgs/Slider5.jpg" alt="Grade Selector" class="product-image">
                   </div>
                   <div class="text-content">
                     <h1><span class="thin-text">REDEFINING</span><br /> POSSIBLE</h1>
                     <p>Download our Toolbox Mobile App and discover the industry’s only Grade Selector — a proprietary tool that easily allows you to choose the best grade for your application. It also includes conversion calculators and <i>The Designer’s Guide to Tungsten Carbide</i>.</p>
                   </div>
                 </article>
+
                 <article title="Oil & Gas">
                   <div class="image-content">
-                    <img src="assets/imgs/Slider2.jpg" alt="demo1_2" class="product-image">
+                    <img src="assets/imgs/Slider2.jpg" alt="Oil & Gas" class="product-image">
                   </div>
                   <div class="text-content">
                     <h1><span class="thin-text">REDEFINING</span><br /> POSSIBLE</h1>
                     <p>At General Carbide, we partner with our customers to develop new grades that yield superior wear resistance, toughness and tool life in the harshest environments. Let our technical know-how help you increase productivity.</p>
                   </div>
                 </article>
+
                 <article title="Ammunition">
                   <div class="image-content">
-                    <img src="assets/imgs/Slider3.jpg" alt="demo1_2" class="product-image">
+                    <img src="assets/imgs/Slider3.jpg" alt="Ammunition" class="product-image">
                   </div>
                   <div class="text-content">
                     <h1><span class="thin-text">REDEFINING</span><br /> POSSIBLE</h1>
                     <p>We’re your “one-stop-shop” for premium ammunition tooling and firearms components. With ISO and Type 10 FFL certifications, and in-house finishing capabilities, we have the expertise to formulate the best grade for your application.</p>
                   </div>
                 </article>
+
+                <article title="Offshore">
+                  <div class="image-content">
+                    <img src="assets/imgs/Slider4.jpg" alt="Offshore" class="product-image">
+                  </div>
+                  <div class="text-content">
+                    <h1><span class="thin-text">REDEFINING</span><br /> POSSIBLE</h1>
+                    <p>See the latest valve assemblies and finished components at Offshore Europe. This world-class conference and exhibition showcases the innovations required to compete in an increasingly complex business.</p>
+                  </div>
+                </article>
+
               </section>
               <h2 class="product-name"></h2>
             </section>

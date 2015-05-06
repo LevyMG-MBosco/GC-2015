@@ -37,7 +37,7 @@
           <div class="row">
             <div class="col-xs-12">
               <h1>Industries</h1>
-              <h2>The Experience to Serve You Better</h2>
+              <h3>The Experience to Serve You Better</h3>
             </div>
             <div class="col-xs-12 col-sm-9">
               <p>Since 1968, we’ve been supplying industry with cemented carbide for the most demanding industrial wear and metal forming applications. Today, we offer more than 50 grades of cemented carbide for applications ranging from pure abrasion to high impingement erosive wear to chemical/mechanical corrosive wear, including applications that involve high-impact strength.</p>

@@ -1,6 +1,10 @@
 <?php include_once('includes/header.php'); ?>
 <div class="interior-page-wrap container">
-  <!--  -->
+  <div class="row">
+    <div class="col-xs-12">
+      <img src='assets/imgs/Careers-HERO.jpg' class="img-responsive"/>
+    </div>
+  </div>
   <div class="row">
     <div class="col-xs-8">
       <div class="interior-content">

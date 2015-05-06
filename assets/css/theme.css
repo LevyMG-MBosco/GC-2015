@@ -745,6 +745,8 @@ img.pdf-icon{
 /* Conversion Calculator styling */
 .conversion-list{
 	padding: 0px;
+	list-style: none;
+	padding-left: 0px;
 }
 
 .conversion-list li{
@@ -973,6 +975,10 @@ img.pdf-icon{
 	z-index: 10000;
 	top: 0;
 	margin-top: 12px;
+}
+
+.section{
+	padding-bottom: 25px;
 }
 
 .section:last-child{

@@ -11,197 +11,193 @@
             </div>
           </div>
           <div class="row">
-            <div class="col-xs-12">
+            <div class="col-xs-12 col-sm-9">
               <h1>ToolBox</h1>
               <p>At General Carbide, we want to be your “go to” source for technical guidance. That’s why we’ve created Toolbox — our suite of tools that allows you to easily select the best grade for your application.</p>
-              <div class="col-xs-6">
-                <a href=""><img src="assets/imgs/iPhoneAppStore.png" class="img-responsive" /></a>
-              </div>
-              <div class="col-xs-6">
-                <a href=""><img style="height: 113px; margin-top: 2px; width: auto;" src="assets/imgs/AndroidAppStore.png" class="img-responsive" /></a>
-              </div>
+
             </div>
             <div class="col-xs-12 col-sm-3">
-              <!-- Section side content goes here -->
+              <div class="col-xs-12">
+                <a href=""><img src="assets/imgs/iPhoneAppStore.png" class="img-responsive" /></a>
+              </div>
+              <div class="col-xs-12">
+                <a href=""><img src="assets/imgs/AndroidAppStore.png" class="img-responsive" /></a>
+              </div>
             </div>
           </div>
         </div>
-      </div>
-      <div class="section" id="section-1">
-        <div class="row">
-          <div class="col-xs-12">
-            <div class="row">
-              <div class="col-xs-12">
-                <h3>Grade Selector</h3>
-              </div>
-              <div class="col-xs-12 col-sm-9">
-                <p>Let our interactive guide help you to select the best grade for your specific application. Narrow your choices by industry and performance characteristics.</p>
-                <a href="http://www.levydev.com/gc/index.php"><img src="assets/imgs/GradeSelector.jpg" /></a>
-              </div>
-              <div class="col-xs-12 col-sm-3">
-                <!-- Section side content goes here -->
+        <div class="section" id="section-1">
+          <div class="row">
+            <div class="col-xs-12">
+              <div class="row">
+                <div class="col-xs-12">
+                  <h3>Grade Selector</h3>
+                </div>
+                <div class="col-xs-12 col-sm-9">
+                  <p>Let our interactive guide help you to select the best grade for your specific application. Narrow your choices by industry and performance characteristics.</p>
+                  <a href="http://www.levydev.com/gc/index.php"><img style="width: 240px;" src="assets/imgs/GradeSelector.jpg" /></a>
+                </div>
+                <div class="col-xs-12 col-sm-3">
+                  <!-- Section side content goes here -->
+                </div>
               </div>
             </div>
+              <div class="col-xs-12 col-sm-10">
+              </div>
           </div>
+        </div>
+      </div>
+
+        <div class="section" id="section-2">
+          <div class="row">
+                <div class="col-xs-12">
+                  <a name="conversion"></a>
+                  <h3>Conversion Calculator</h3>
+                </div>
+                <div class="col-xs-12">
+                  <p>Allows you to convert measurements related to Pressure, Density, Mass, Length, Force and Temperature from English to metric units.</p>
+                  <div class="row calc panel panel-default">
+                    <div class="col-xs-12 col-sm-3">
+                      <div class="col-xs-12">
+                        <table>
+                          <tbody>
+                            <tr>
+                              <td>
+                                <table>
+                                  <tbody>
+                                  <form>
+                                    <fieldset>
+                                      <tr>
+                                        <td>
+                                          <label for="userInput">psi</label><br />
+                                          <input type="text" id="userInput" name="userInput" /><br />
+                                        </td>
+
+                                      </tr>
+                                      <tr>
+                                        <td>
+                                          <label for="output">kPa</label><br />
+                                          <input type="text" id="output" name="output" /><br />
+                                        </td>
+                                      </tr>
+                                      <tr>
+                                        <td>
+                                          <input type="button" id="calc" onclick="convert(6.8948)" value="Calculate"  />
+                                        </td>
+                                      </tr>
+                                    </fieldset>
+                                  </form>
+                                  </tbody>
+                                </table>
+                              </td>
+                            </tr>
+                          </tbody>
+                        </table>
+                      </div>
+                    </div>
+
+                    <div class="col-xs-12 col-sm-9">
+                      <!-- Selection array -->
+                      <div class="col-xs-12">
+                        <div class="col-xs-4">
+                          <ul class="conversion-list panel panel-default">
+                          	<li class="heading panel-heading">Pressure</li>
+                              <li><a href="#conversion" class="calc-btn" call="multiply(6.8948)">psi to kPa</a></li>
+                              <li><a href="#conversion" class="calc-btn" call="multiply(0.00689)">psi to MPa</a></li>
+                              <li><a href="#conversion" class="calc-btn" call="multiply(0.00000689)">psi to GPa</a></li>
+                              <li><a href="#conversion" class="calc-btn" call="multiply(0.145)">kPa to psi</a></li>
+                              <li><a href="#conversion" class="calc-btn" call="multiply(145)">MPa to psi</a></li>
+                              <li><a href="#conversion" class="calc-btn" call="multiply(145038)">GPa to psi</a></li>
+                          </ul>
+                        </div>
+                        <div class="col-xs-4">
+                          <ul class="conversion-list panel panel-default">
+                          	<li class="heading panel-heading">Length</li>
+                              <li><a href="#conversion" class="calc-btn" call="multiply(25400)">inch to micron</a></li>
+                              <li><a href="#conversion" class="calc-btn" call="multiply(25.4)">inch to millimeter</a></li>
+                              <li><a href="#conversion" class="calc-btn" call="multiply(0.00004)">micron to inch</a></li>
+                              <li><a href="#conversion" class="calc-btn" call="multiply(0.03937)">millimeter to inch</a></li>
+                          </ul>
+                        </div>
+                        <div class="col-xs-4">
+                          <ul class="conversion-list panel panel-default">
+                          	<li class="heading panel-heading">Temperature</li>
+                              <li><a href="#conversion" class="calc-btn" call="multiply(1.8)">in/(in&deg;F) to m/(M&deg;C)</a>
+                              <li><a href="#conversion" class="calc-btn" call="Fc()">&deg;F to &deg;C</a></li>
+                              <li><a href="#conversion" class="calc-btn" call="Fk()">&deg;F to &deg;K</a></li>
+                              <li><a href="#conversion" class="calc-btn" call="Cf()">&deg;C to &deg;F</a></li>
+                              <li><a href="#conversion" class="calc-btn" call="Kf()">&deg;K to &deg;F</a></li>
+                          </ul>
+                        </div>
+                      </div>
+                      <div class="col-xs-12">
+                        <div class="col-xs-4">
+                          <ul class="conversion-list panel panel-default">
+                          	<li class="heading panel-heading">Density</li>
+                              <li><a href="#conversion" class="calc-btn" call="multiply(27.68)">lb/in<sup>3</sup> to g/cm<sup>3</sup></a></li>
+                              <li><a href="#conversion" class="calc-btn" call="multiply(0.03613)">g/cm<sup>3</sup> to lb/in<sup>3</sup></a></li>
+                          </ul>
+                        </div>
+                        <div class="col-xs-4">
+                          <ul class="conversion-list panel panel-default">
+                          	<li class="heading panel-heading">Mass</li>
+                              <li><a href="#conversion" class="calc-btn" call="multiply(0.4536)">pound to kilogram</a></li>
+                              <li><a href="#conversion" class="calc-btn" call="multiply(2.2046)">kilogram to pound</a></li>
+                          </ul>
+                        </div>
+                        <div class="col-xs-4">
+                          <ul class="conversion-list panel panel-default">
+                          	<li class="heading panel-heading">Force</li>
+                              <li><a href="#conversion" class="calc-btn" call="multiply(4.448)">lbf to N</a></li>
+                              <li><a href="#conversion" class="calc-btn" call="multiply(0.225)">N to lbf</a></li>
+                          </ul>
+                        </div>
+                      </div>
+                    </div>
+
+                  </div>
+
+                </div>
+
+
+
             <div class="col-xs-12 col-sm-10">
             </div>
-        </div>
-      </div>
-      <div class="section" id="section-2">
-        <div class="row">
-          <div class="col-xs-12">
-            <div class="row">
-              <div class="col-xs-12">
-                <a name="conversion"></a>
-                <h3>Conversion Calculator</h3>
-              </div>
-              <div class="col-xs-12">
-                <p>Allows you to convert measurements related to Pressure, Density, Mass, Length, Force and Temperature from English to metric units.</p>
-                <div class="row calc panel panel-default">
-                  <div class="col-xs-12 col-sm-3">
-                    <div class="col-xs-12">
-                      <table>
-                        <tbody>
-                          <tr>
-                            <td>
-                              <table>
-                                <tbody>
-                                <form>
-                                  <fieldset>
-                                    <tr>
-                                      <td>
-                                        <label for="userInput">psi</label><br />
-                                        <input type="text" id="userInput" name="userInput" /><br />
-                                      </td>
-
-                                    </tr>
-                                    <tr>
-                                      <td>
-                                        <label for="output">kPa</label><br />
-                                        <input type="text" id="output" name="output" /><br />
-                                      </td>
-                                    </tr>
-                                    <tr>
-                                      <td>
-                                        <input type="button" id="calc" onclick="convert(6.8948)" value="Calculate"  />
-                                      </td>
-                                    </tr>
-                                  </fieldset>
-                                </form>
-                                </tbody>
-                              </table>
-                            </td>
-                          </tr>
-                        </tbody>
-                      </table>
-                    </div>
-                  </div>
-
-                  <div class="col-xs-12 col-sm-9">
-                    <!-- Selection array -->
-                    <div class="col-xs-12">
-                      <div class="col-xs-4">
-                        <ul class="conversion-list panel panel-default">
-                        	<li class="heading panel-heading">Pressure</li>
-                            <li><a href="#conversion" class="calc-btn" call="multiply(6.8948)">psi to kPa</a></li>
-                            <li><a href="#conversion" class="calc-btn" call="multiply(0.00689)">psi to MPa</a></li>
-                            <li><a href="#conversion" class="calc-btn" call="multiply(0.00000689)">psi to GPa</a></li>
-                            <li><a href="#conversion" class="calc-btn" call="multiply(0.145)">kPa to psi</a></li>
-                            <li><a href="#conversion" class="calc-btn" call="multiply(145)">MPa to psi</a></li>
-                            <li><a href="#conversion" class="calc-btn" call="multiply(145038)">GPa to psi</a></li>
-                        </ul>
-                      </div>
-                      <div class="col-xs-4">
-                        <ul class="conversion-list panel panel-default">
-                        	<li class="heading panel-heading">Length</li>
-                            <li><a href="#conversion" class="calc-btn" call="multiply(25400)">inch to micron</a></li>
-                            <li><a href="#conversion" class="calc-btn" call="multiply(25.4)">inch to millimeter</a></li>
-                            <li><a href="#conversion" class="calc-btn" call="multiply(0.00004)">micron to inch</a></li>
-                            <li><a href="#conversion" class="calc-btn" call="multiply(0.03937)">millimeter to inch</a></li>
-                        </ul>
-                      </div>
-                      <div class="col-xs-4">
-                        <ul class="conversion-list panel panel-default">
-                        	<li class="heading panel-heading">Temperature</li>
-                            <li><a href="#conversion" class="calc-btn" call="multiply(1.8)">in/(in&deg;F) to m/(M&deg;C)</a>
-                            <li><a href="#conversion" class="calc-btn" call="Fc()">&deg;F to &deg;C</a></li>
-                            <li><a href="#conversion" class="calc-btn" call="Fk()">&deg;F to &deg;K</a></li>
-                            <li><a href="#conversion" class="calc-btn" call="Cf()">&deg;C to &deg;F</a></li>
-                            <li><a href="#conversion" class="calc-btn" call="Kf()">&deg;K to &deg;F</a></li>
-                        </ul>
-                      </div>
-                    </div>
-                    <div class="col-xs-12">
-                      <div class="col-xs-4">
-                        <ul class="conversion-list panel panel-default">
-                        	<li class="heading panel-heading">Density</li>
-                            <li><a href="#conversion" class="calc-btn" call="multiply(27.68)">lb/in<sup>3</sup> to g/cm<sup>3</sup></a></li>
-                            <li><a href="#conversion" class="calc-btn" call="multiply(0.03613)">g/cm<sup>3</sup> to lb/in<sup>3</sup></a></li>
-                        </ul>
-                      </div>
-                      <div class="col-xs-4">
-                        <ul class="conversion-list panel panel-default">
-                        	<li class="heading panel-heading">Mass</li>
-                            <li><a href="#conversion" class="calc-btn" call="multiply(0.4536)">pound to kilogram</a></li>
-                            <li><a href="#conversion" class="calc-btn" call="multiply(2.2046)">kilogram to pound</a></li>
-                        </ul>
-                      </div>
-                      <div class="col-xs-4">
-                        <ul class="conversion-list panel panel-default">
-                        	<li class="heading panel-heading">Force</li>
-                            <li><a href="#conversion" class="calc-btn" call="multiply(4.448)">lbf to N</a></li>
-                            <li><a href="#conversion" class="calc-btn" call="multiply(0.225)">N to lbf</a></li>
-                        </ul>
-                      </div>
-                    </div>
-                  </div>
-
-                </div>
-
-              </div>
-
-
-
-              <div class="col-xs-12 col-sm-3">
-                <!-- Section side content goes here -->
-              </div>
-            </div>
-          </div>
-          <div class="col-xs-12 col-sm-10">
           </div>
         </div>
-      </div>
-      <div class="section" id="section-3">
-        <div class="row">
-          <div class="col-xs-12">
-            <div class="row">
-              <div class="col-xs-12">
-                <h3>Hardness Conversion Scales</h3>
-              </div>
-              <div class="col-xs-12 col-sm-9">
-                <p>Makes it easy for you to convert from Rockwell “A” to Rockwell “C” (HRA-HRC), as well as from HRA to Vickers HV30 and HV10 values.</p>
-              </div>
-              <div class="col-xs-12 col-sm-3">
-                <div class="pdf-wrap">
-                  <a href="assets/pdf/GCRockwellHardness.pdf" target="_blank">
-                    <table><tbody><tr>
-                      <td><img class="pdf-icon" src="assets/imgs/pdf.png" /></td>
-                      <td valign="middle"><p class="pdf-filename">Rockwell Hardness Conversion Chart</p></td>
-                    </tr></tbody></table>
-                  </a>
+        <div class="interior-content">
+        <div class="section" id="section-3">
+          <div class="row">
+            <div class="col-xs-12">
+              <div class="row">
+                <div class="col-xs-12">
+                  <h3>Hardness Conversion Scales</h3>
                 </div>
-                <div class="pdf-wrap">
-                  <a href="assets/pdf/GCVickersHardness.pdf" target="_blank">
-                    <table><tbody><tr>
-                      <td><img class="pdf-icon" src="assets/imgs/pdf.png" /></td>
-                      <td valign="middle"><p class="pdf-filename">Vickers Hardness Conversion Chart</p></td>
-                    </tr></tbody></table>
-                  </a>
+                <div class="col-xs-12 col-sm-9">
+                  <p>Makes it easy for you to convert from Rockwell “A” to Rockwell “C” (HRA-HRC), as well as from HRA to Vickers HV30 and HV10 values.</p>
+                </div>
+                <div class="col-xs-12 col-sm-3">
+                  <div class="pdf-wrap">
+                    <a href="assets/pdf/GCRockwellHardness.pdf" target="_blank">
+                      <table><tbody><tr>
+                        <td><img class="pdf-icon" src="assets/imgs/pdf.png" /></td>
+                        <td valign="middle"><p class="pdf-filename">Rockwell Hardness Conversion Chart</p></td>
+                      </tr></tbody></table>
+                    </a>
+                  </div>
+                  <div class="pdf-wrap">
+                    <a href="assets/pdf/GCVickersHardness.pdf" target="_blank">
+                      <table><tbody><tr>
+                        <td><img class="pdf-icon" src="assets/imgs/pdf.png" /></td>
+                        <td valign="middle"><p class="pdf-filename">Vickers Hardness Conversion Chart</p></td>
+                      </tr></tbody></table>
+                    </a>
+                  </div>
                 </div>
               </div>
             </div>
-          </div>
-          <div class="col-xs-12 col-sm-10">
+            <div class="col-xs-12 col-sm-10">
+            </div>
           </div>
         </div>
       </div>

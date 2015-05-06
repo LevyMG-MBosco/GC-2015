@@ -43,18 +43,18 @@
 
         <div id="slidemenu">
         <ul class="nav navbar-nav">
-         <li <?php if ($page == "about.php"){ echo "class='active'"; } ?>><a href="about.php">ABOUT</a></li>
-         <li <?php if ($page == "news.php"){ echo "class='active'"; } ?>><a href="news.php">NEWS & EVENTS</a></li>
-         <li <?php if ($page == "careers.php"){ echo "class='active'"; } ?>><a href="careers.php">CAREERS</a></li>
-         <li <?php if ($page == "contact.php"){ echo "class='active'"; } ?>><a href="contact.php">CONTACT</a></li>
-        </ul>
-        <ul class="nav navbar-nav">
          <li <?php if ($page == "index.php"){ echo "class='active'"; } ?>><a href="index.php">HOME</a></li>
          <li <?php if ($page == "industries.php"){ echo "class='active'"; } ?>><a href="industries.php">INDUSTRIES</a></li>
          <li <?php if ($page == "grades.php"){ echo "class='active'"; } ?>><a href="grades.php">GRADES</a></li>
          <li <?php if ($page == "quality.php"){ echo "class='active'"; } ?>><a href="quality.php">QUALITY</a></li>
          <li <?php if ($page == "library.php"){ echo "class='active'"; } ?>><a href="library.php">LIBRARY</a></li>
          <li <?php if ($page == "toolbox.php"){ echo "class='active'"; } ?>><a href="toolbox.php">TOOLBOX</a></li>
+        </ul>
+        <ul class="nav navbar-nav">
+         <li <?php if ($page == "about.php"){ echo "class='active'"; } ?>><a href="about.php">ABOUT</a></li>
+         <li <?php if ($page == "news.php"){ echo "class='active'"; } ?>><a href="news.php">NEWS & EVENTS</a></li>
+         <li <?php if ($page == "careers.php"){ echo "class='active'"; } ?>><a href="careers.php">CAREERS</a></li>
+         <li <?php if ($page == "contact.php"){ echo "class='active'"; } ?>><a href="contact.php">CONTACT</a></li>
         </ul>
         </div>
 
