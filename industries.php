@@ -53,6 +53,14 @@
                   </tr></tbody></table>
                 </a>
               </div>
+              <div class="pdf-wrap">
+                <a href="assets/pdf/GCBrochure.pdf" target="_blank">
+                  <table><tbody><tr>
+                    <td><img class="pdf-icon" src="assets/imgs/pdf.png" /></td>
+                    <td valign="middle"><p class="pdf-filename">Capabilities Brochure</p></td>
+                  </tr></tbody></table>
+                </a>
+              </div>
             </div>
           </div>
         </div>

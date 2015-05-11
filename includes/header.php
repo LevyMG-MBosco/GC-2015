@@ -120,7 +120,7 @@
                     <li <?php if ($page == "grades.php"){ echo "class='currentnav'"; } ?>><a href="grades.php">GRADES</a></li>
                     <li <?php if ($page == "quality.php"){ echo "class='currentnav'"; } ?>><a href="quality.php">QUALITY</a></li>
                     <li <?php if ($page == "library.php"){ echo "class='currentnav'"; } ?>><a href="library.php">LIBRARY</a></li>
-                    <li <?php if ($page == "toolbox.php"){ echo "class='currentnav'"; } ?>><a href="toolbox.php">TOOLBOX</a></li>
+                    <li <?php if ($page == "toolbox.php"){ echo "class='currentnav'"; } ?> style="padding: 4px;"><a href="toolbox.php"><img src="assets/imgs/toolbox-logo.png" /></a></li>
                 </ul>
             </div>
         </div>

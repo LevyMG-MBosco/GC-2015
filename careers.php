@@ -1,12 +1,11 @@
 <?php include_once('includes/header.php'); ?>
 <div class="interior-page-wrap container">
   <div class="row">
-    <div class="col-xs-12">
+    <div class="col-xs-12 col-md-9">
       <img src='assets/imgs/Careers-HERO.jpg' class="img-responsive"/>
-    </div>
-  </div>
+
   <div class="row">
-    <div class="col-xs-8">
+    <div class="col-xs-7">
       <div class="interior-content">
         <h1>Careers</h1>
         <p>As a growing company, General Carbide is always looking for people who are skilled in:</p>
@@ -56,7 +55,7 @@
         </ul>
       </div>
     </div>
-    <div class="col-xs-12 col-sm-4 careers-sidebar-container">
+    <div class="col-xs-12 col-sm-5 careers-sidebar-container">
       <div id="nav-anchor"></div>
       <img class="img-responsive" src="assets/imgs/JoinTeam.jpg" />
       <div class="careers-sidebar">
@@ -71,5 +70,7 @@
       </div>
     </div>
   </div>
+</div>
+</div>
 </div>
 <?php include_once('includes/footer.php'); ?>

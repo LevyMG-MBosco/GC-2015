@@ -70,9 +70,6 @@
               <p class="subtext">As seen in International Journal of Powder Metallurgy</p>
               <a href="assets/pdf/GCAdParts.pdf" target="_blank">All parts are not created equal. Some are made by General Carbide.</a>
               <p class="subtext">As seen in Manufacturing Engineering magazine</p>
-              <a href="assets/pdf/GCAdPacesetters.pdf" target="_blank">Mona Pappafava-Ray</a>
-              <p class="subtext">As seen in Smart Business: Special PACESETTER edition - October 2010</p>
-              <a href="assets/pdf/GCNewsletter.pdf" target="_blank">Carbide Grade Selector E-Newsletter</a>
             </div>
           </div>
         </div>

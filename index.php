@@ -133,7 +133,9 @@
                 <div class="col-sm-8">
                     <h3>Download our Mobile App!</h3>
                     <p>Find the best grade for our application, quickly convert Rockwell Hardness scales, and much more!</p>
-                    <a class="learnmore" href="#">Learn More</a>
+                    <a class="learnmore hidden-xs" href="toolbox.php">Learn More</a>
+                    <a href="https://itunes.apple.com/us/app/general-carbide-toolbox/id983630318?mt=8&uo=6&at=&ct="><img class="visible-xs-* hidden-sm hidden-md hidden-lg app-buttons" src="assets/imgs/iPhoneAppStore.png" class="img-responsive" /></a>
+                    <a href="https://play.google.com/store/apps/details?id=com.coolappz.gc_mobile"><img class="visible-xs-* hidden-sm hidden-md hidden-lg app-buttons" src="assets/imgs/AndroidAppStore.png" class="img-responsive" /></a>
                 </div>
             </div>
         </div>

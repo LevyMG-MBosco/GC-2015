@@ -33,7 +33,7 @@
             </div>
             <div class="col-xs-12 col-sm-3">
               <div class="pdf-wrap">
-                <a href="assets/pdf/GCISOCert.pdf" target="_blank"><img style="width: 100px;" src="assets/imgs/ISO-Square.png" /></a>
+                <a href="assets/pdf/GCISOCert.pdf" target="_blank"><img style="padding: 10px 0px; width: 100px;" src="assets/imgs/ISO-Square.png" /></a>
               </div>
               <!-- Section side content goes here -->
             </div>

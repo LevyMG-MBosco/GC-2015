@@ -26,6 +26,10 @@ h4{
 	color: white;
 }
 
+.navigation img{
+	width: 175px;
+}
+
 .footer-nav a:hover{
 	text-decoration: none;
 }
@@ -352,6 +356,7 @@ img.pdf-icon{
 
 .navigation{
 	margin: 0px;
+	padding: 0px;
 	float: right;
 	display: table;
 }
@@ -359,7 +364,8 @@ img.pdf-icon{
 .navigation li{
 	float: left;
 	display: table-cell;
-	margin-left: 60px;
+	margin-right: 70px;
+	margin-left: 0px;
 	font-size: 25px;
 	padding: 7px;
 }
@@ -373,12 +379,94 @@ img.pdf-icon{
 }
 
 .footer .row > div > ul{
-	display: table;
+
 }
+
+.left{
+	float: left;
+}
+
+.right-footer-nav{
+	float: right !important;
+	border-right: 1px solid #fff;
+}
+
+.readmore{
+	cursor: pointer;
+}
+
+.right{
+	float: right;
+}
+
+.half-width{
+	width: 49%;
+}
+
+.army-header{
+	text-align: center;
+	font-size: 24px;
+	margin: 10px 0px;
+}
+
+/* Contact styling */
+.regions a{
+	cursor: pointer;
+}
+
+.modal-header h1{
+	margin: 0px;
+}
+
+.modal-header {
+    padding:9px 15px;
+    border-bottom:1px solid #eee;
+    background-color: #e21836;
+    -webkit-border-top-left-radius: 5px;
+    -webkit-border-top-right-radius: 5px;
+    -moz-border-radius-topleft: 5px;
+    -moz-border-radius-topright: 5px;
+     border-top-left-radius: 5px;
+     border-top-right-radius: 5px;
+		color: #fff;
+ }
+
+.modal-sub{
+	text-align: left;
+}
+
+.modal-sub p{
+	margin-bottom: 0px;
+}
+
+.modal-sub h2{
+	font-size: 18px;
+	margin: 0px 0px 5px;
+}
+
+.modal-sub{
+	margin: 10px 0px;
+}
+
+.modal-sub-head{
+	font-size: 22px;
+	font-weight: 600;
+}
+
+.contact-info ul{
+	list-style: none;
+	padding: 0px;
+}
+
+/* End contact styling */
 
 .footer .row > div > ul > li{
 	display: table-cell;
 	padding: 0px 5px;
+}
+
+.app-buttons{
+		margin-bottom: 5px;
 }
 
 #wbenc{
@@ -396,6 +484,14 @@ img.pdf-icon{
 		height: 0px;
 	}
 
+	.conversion-list .heading{
+		font-size: 16px !important;
+	}
+
+	.learnmore{
+		font-size: 23px;
+	}
+
 	.pdf-filename{
 		width: 100%;
 	}
@@ -404,7 +500,9 @@ img.pdf-icon{
 		margin: 10px auto;
 	}
 
-
+	.app-buttons{
+			width: 135px !important;
+	}
 
 	.text-content{
 		position: static !important;
@@ -438,8 +536,8 @@ img.pdf-icon{
 	}
 
 	.section{
-		padding-bottom: 0px;
-		padding-top: 50px;
+		padding-bottom: 15px;
+		padding-top: 15px;
 	}
 
 	#wbenc{
@@ -459,6 +557,12 @@ img.pdf-icon{
 @media (min-width: 768px) and (max-width: 991px){
 	.news-slider{
 		height:341px;
+	}
+
+	.navigation li{
+		padding: 7px 0px;
+		margin-right: 16px !important;
+		margin-left: 0px !important;
 	}
 
 	.pdf-filename{
@@ -498,7 +602,7 @@ img.pdf-icon{
 /* Tablet styles landscape */
 @media (min-width: 992px) and (max-width: 1199px){
 	.navigation li{
-		margin-left: 36px;
+		margin-right: 36px;
 	}
 
 	.pdf-filename{
@@ -740,6 +844,10 @@ img.pdf-icon{
 
 #mobile-footer-logo{
 	margin: 0 auto;
+}
+
+.white-background{
+	background-color: #fff;
 }
 
 /* Conversion Calculator styling */

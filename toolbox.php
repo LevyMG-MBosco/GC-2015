@@ -17,15 +17,37 @@
 
             </div>
             <div class="col-xs-12 col-sm-3">
-              <div class="col-xs-12">
-                <a href=""><img src="assets/imgs/iPhoneAppStore.png" class="img-responsive" /></a>
-              </div>
-              <div class="col-xs-12">
-                <a href=""><img src="assets/imgs/AndroidAppStore.png" class="img-responsive" /></a>
-              </div>
+
             </div>
           </div>
         </div>
+
+        <div class="section" id="section-4">
+          <div class="row">
+            <div class="col-xs-12">
+              <div class="row">
+                <div class="col-xs-12">
+                  <h3>Our General Carbide App</h3>
+                </div>
+                <div class="col-xs-12 col-sm-9">
+                  <p>Download our Toolbox Mobile App and discover the industry’s only Grade Selector — a proprietary tool that easily allows you to choose the best grade for your application. It also includes conversion calculators and <i>The Designer’s Guide to Tungsten Carbide</i></p>
+
+                </div>
+                <div class="col-xs-12 col-sm-3">
+                  <div class="col-xs-12">
+                    <a href="https://itunes.apple.com/us/app/general-carbide-toolbox/id983630318?mt=8&uo=6&at=&ct="><img class="app-buttons" src="assets/imgs/iPhoneAppStore.png" class="img-responsive" /></a>
+                  </div>
+                  <div class="col-xs-12">
+                    <a href="https://play.google.com/store/apps/details?id=com.coolappz.gc_mobile"><img class="app-buttons" src="assets/imgs/AndroidAppStore.png" class="img-responsive" /></a>
+                  </div>
+                </div>
+              </div>
+            </div>
+              <div class="col-xs-12 col-sm-10">
+              </div>
+          </div>
+        </div>
+
         <div class="section" id="section-1">
           <div class="row">
             <div class="col-xs-12">
@@ -35,7 +57,10 @@
                 </div>
                 <div class="col-xs-12 col-sm-9">
                   <p>Let our interactive guide help you to select the best grade for your specific application. Narrow your choices by industry and performance characteristics.</p>
-                  <a href="http://www.levydev.com/gc/index.php"><img style="width: 240px;" src="assets/imgs/GradeSelector.jpg" /></a>
+                  <a href="http://www.levydev.com/gc/index.php">
+                    <img style="width: 240px;" src="assets/imgs/GradeSelector.jpg" />
+                    <p>Let's Get Started</p>
+                  </a>
                 </div>
                 <div class="col-xs-12 col-sm-3">
                   <!-- Section side content goes here -->
@@ -232,6 +257,7 @@ $(document).ready(function() {
 
 			$("label[for='userInput']").html(aClass[0]);
 			$("label[for='output']").html(aClass[1]);
+      $("input#userInput").val(null);
 			$("input#output").val(null);
 			$("input#calc").attr("onClick", call);
 

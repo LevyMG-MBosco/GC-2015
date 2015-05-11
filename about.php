@@ -20,11 +20,11 @@
 
             </div>
             <div class="sidebar col-xs-12 col-sm-3">
-              <div class="pdf-wrap">
+              <div class="pdf-wrap white-background">
                 <a href="assets/pdf/WBENCCertificate.pdf" target="_blank"><img style="max-width: 330px;" class="img-responsive" id="wbenc" src="assets/imgs/WBENC.png" /></a>
               </div>
 
-              <div class="pdf-wrap">
+              <div class="pdf-wrap white-background">
                 <a href="assets/pdf/GCISOCert.pdf" target="_blank"><img style="max-width: 210px;" class="img-responsive" src="assets/imgs/ISO.png" /></a>
               </div>
 
@@ -62,8 +62,8 @@
               <p>We are grateful to members of the General Carbide team who have served proudly in the Army, Navy, Air Force and Marines. Their dedication to protecting our freedom has helped make our country a beacon of hope to the world.</p>
               <div class="military-wrap row">
                 <div class="col-xs-12 col-sm-3">
-                  <img src="" />
-                  <p>Army</p>
+                  <img src="assets/imgs/seal-army.jpg" />
+                  <p class="army-header">Army</p>
                   <ul>
                     <li>Rocco Capasso</li>
                     <li>Jim Flack III - deployed while at GCC</li>
@@ -77,10 +77,33 @@
                   </ul>
                 </div>
                 <div class="col-xs-12 col-sm-3">
+                  <img src="assets/imgs/seal-navy.jpg" />
+                  <p class="army-header">Navy</p>
+                  <ul>
+                    <li>Ed Brinker</li>
+                    <li>Walter Diethorn</li>
+                    <li>Gilbert grant</li>
+                    <li>Ed Grkman</li>
+                    <li>David Heide</li>
+                    <li>Lewis Woodward</li>
+                  </ul>
                 </div>
                 <div class="col-xs-12 col-sm-3">
+                  <img src="assets/imgs/seal-airforce.jpg" />
+                  <p class="army-header">Air Force</p>
+                  <ul>
+                    <li>Gary Belak</li>
+                    <li>Rick Sadler</li>
+                    <li>Dave Smith</li>
+                  </ul>
                 </div>
                 <div class="col-xs-12 col-sm-3">
+                  <img src="assets/imgs/seal-marines.jpg" />
+                  <p class="army-header">Marines</p>
+                  <ul>
+                    <li>Bob Garsteck</li>
+                    <li>Jim Flack III - deployed while at GCC</li>
+                  </ul>
                 </div>
               </div>
             </div>
